@@ -23,7 +23,7 @@ public class BenXeVexereSeleniumCrawler {
 
     public static void main(String[] args) throws Exception {
         String slugFile = args.length > 0 ? args[0] : "ben_xe.txt";
-        String outputFile = args.length > 1 ? args[1] : "routes_ben_xe.txt";
+        String outputFile = args.length > 1 ? args[1] : "routes_benxe.txt";
 
         List<String> slugs = readSlugs(slugFile);
 

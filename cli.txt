@@ -1,2 +1,5 @@
 nohup mvn exec:java -Dexec.mainClass="com.example.BenXeVexereSeleniumCrawler" > benxe.log 2>&1 &
 nohup mvn exec:java -Dexec.mainClass="com.example.NhaXeVexereSeleniumCrawler" > nhaxe.log 2>&1 &
+
+nohup mvn exec:java -Dexec.mainClass="com.example.BenXeVexereTicketCrawler" > benxe.log 2>&1 &
+nohup mvn exec:java -Dexec.mainClass="com.example.NhaXeVevereTicketCrawler" > nhaxe.log 2>&1 &

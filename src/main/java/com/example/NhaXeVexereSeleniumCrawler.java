@@ -21,7 +21,7 @@ public class NhaXeVexereSeleniumCrawler {
 
     public static void main(String[] args) throws Exception {
         String slugFile = "nha_xe.txt"; // chứa list slug
-        String outputFile = "routes.txt"; // kết quả
+        String outputFile = "routes_nhaxe"; // kết quả
 
         List<String> slugs = readSlugs(slugFile);
 
