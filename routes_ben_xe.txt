@@ -1,0 +1,51 @@
+[ben-xe-vung-tau] Địa chỉ: Nam Kỳ Khởi Nghĩa, Vũng Tàu, province_vi Bà Rịa-Vũng Tàu
+[ben-xe-vung-tau] Bến xe Vũng Tàu đi Hà Nội | Minh Phúc | 700.000₫
+[ben-xe-vung-tau] Bến xe Vũng Tàu đi Hải Phòng | Xuân Phước | 850.000₫
+[ben-xe-vung-tau] Bến xe Vũng Tàu đi Sài Gòn | Phú Hải | 110.000₫
+[ben-xe-vung-tau] Bến xe Vũng Tàu đi Chợ Mới | Thạnh Lợi | 130.000₫
+[ben-xe-vung-tau] Bến xe Vũng Tàu đi Thủ Dầu Một | Nam Việt | 85.000₫
+[ben-xe-vung-tau] Bến xe Vũng Tàu đi Quy Nhơn | Ngọc Duy | 270.000₫
+[ben-xe-vung-tau] Bến xe Vũng Tàu đi Mũi Né | Phương Dung | 90.000₫
+[ben-xe-vung-tau] Bến xe Vũng Tàu đi Hà Tiên | Ngọc Song Anh | 245.000₫
+[ben-xe-vung-tau] Bến xe Vũng Tàu đi Vĩnh Thuận | Ngọc Song Anh | 238.000₫
+[ben-xe-vung-tau] Bến xe Vũng Tàu đi Rạch Giá | Thành Tài | 200.000₫
+[ben-xe-vung-tau] Bến xe Vũng Tàu đi Gò Công | Mười Lâm | 110.000₫
+[ben-xe-phia-bac-nha-trang] Địa chỉ: 1 Đường Điện Biên Phủ, Nha Trang, province_vi Khánh Hòa
+[ben-xe-duc-long-gia-lai] Địa chỉ: 43 Lý Nam Đế, phường Trà Bá, Pleiku, province_vi Gia Lai
+[ben-xe-duc-long-gia-lai] Bến xe Đức Long Gia Lai đi Đà Nẵng | Thuận Tiến | 180.000₫
+[ben-xe-duc-long-gia-lai] Bến xe Đức Long Gia Lai đi Đà Nẵng | Hồng Hải | 220.000₫
+[ben-xe-duc-long-gia-lai] Bến xe Đức Long Gia Lai đi Hà Nội | Thuận Ý | 580.000₫
+[ben-xe-duc-long-gia-lai] Bến xe Đức Long Gia Lai đi Hà Nội | Trần Tiến | 650.000₫
+[ben-xe-duc-long-gia-lai] Bến xe Đức Long Gia Lai đi Sài Gòn | Bảo Thịnh | 280.000₫
+[ben-xe-duc-long-gia-lai] Bến xe Đức Long Gia Lai đi Sài Gòn | Hồng Hải | 300.000₫
+[ben-xe-duc-long-gia-lai] Bến xe Đức Long Gia Lai đi Sài Gòn | Phúc Hậu | 250.000₫
+[ben-xe-duc-long-gia-lai] Bến xe Đức Long Gia Lai đi Hà Tĩnh | Thuận Ý | 480.000₫
+[ben-xe-duc-long-gia-lai] Bến xe Đức Long Gia Lai đi Hải Dương | Thắng Lợi (Hải Dương) | 600.000₫
+[ben-xe-duc-long-gia-lai] Bến xe Đức Long Gia Lai đi Ninh Hòa | Liên Hưng | 185.000₫
+[ben-xe-duc-long-gia-lai] Bến xe Đức Long Gia Lai đi Nha Trang | Hoài Phương | 170.000₫
+[ben-xe-duc-long-gia-lai] Bến xe Đức Long Gia Lai đi Đồng Hới | Thuận Ý | 430.000₫
+[ben-xe-duc-long-gia-lai] Bến xe Đức Long Gia Lai đi Quảng Trị | Thuận Ý | 400.000₫
+[ben-xe-duc-long-gia-lai] Bến xe Đức Long Gia Lai đi Thanh Hóa | Thuận Ý | 530.000₫
+[ben-xe-91b-can-tho] Địa chỉ: Lộ 91B Nguyễn Văn Linh, Ninh Kiều, Thành phố Cần Thơ
+[ben-xe-91b-can-tho] Bến xe 91B Cần Thơ đi Quảng Ngãi | Chín Nghĩa | 390.000₫
+[ben-xe-an-phu] Địa chỉ: 9 Liên Huyện, An Phú, Thuận An, Bình Dương, Vietnam, Thuận An, province_vi Bình Dương
+[ben-xe-an-phu] Bến xe An Phú đi Thạnh Trị | Tùng Châu | 110.000₫
+[ben-xe-an-suong] Địa chỉ: Quốc Lộ 22, Bà Điểm, Hóc Môn, Hồ Chí Minh, Vietnam, Hóc Môn, Thành phố Hồ Chí Minh
+[ben-xe-an-suong] Bến xe An Sương đi Thạch Hà | Hoa Sơn | 700.000₫
+[ben-xe-an-suong] Bến xe An Sương đi Hải Hậu | Thái Dương | 650.000₫
+[ben-xe-an-suong] Bến xe An Sương đi Đại Lộc | Trung Trần Hòa | 330.000₫
+[ben-xe-an-suong] Bến xe An Sương đi Đại Lộc | Việt Tuyết | 300.000₫
+[ben-xe-an-suong] Bến xe An Sương đi Đại Lộc | Trần Hòa | 410.000₫
+[ben-xe-an-suong] Bến xe An Sương đi Đại Lộc | Đại Lộc | 350.000₫
+[ben-xe-an-suong] Bến xe An Sương đi Tân Châu | Quốc Dũng (Thùy Linh cũ) | 70.000₫
+[ben-xe-ayunpa] Địa chỉ: 313 Trần Hưng Đạo, Cheo Reo, Ayun Pa, Gia Lai, Vietnam, Ayun Pa, province_vi Gia Lai
+[ben-xe-ba-tri] Địa chỉ: Tỉnh Lộ 887, An Bình Tây, Ba Tri, Bến Tre, Vietnam, Ba Tri, province_vi Bến Tre
+[ben-xe-ba-tri] Bến xe Ba Tri đi Sài Gòn | Hồng Phượng | 90.000₫
+[ben-xe-ba-tri] Bến xe Ba Tri đi Cà Mau | Ngọc Giàu | 120.000₫
+[ben-xe-ba-tri] Bến xe Ba Tri đi Cà Mau | Thảo Bằng | 114.000₫
+[ben-xe-ba-don] Địa chỉ: 69 Hùng Vương, Quảng Trạch, province_vi Quảng Bình
+[ben-xe-ba-don] Bến xe Ba Đồn đi Đà Nẵng | Trung Tín | 150.000₫
+[ben-xe-ba-don] Bến xe Ba Đồn đi Sài Gòn | Tuấn Linh | 600.000₫
+[ben-xe-bien-hoa] Địa chỉ: 04 Nguyễn Ái Quốc, Quang Vinh, tp. Biên Hòa, Đồng Nai, Vietnam, Biên Hòa, province_vi Đồng Nai
+[ben-xe-bien-hoa] Bến xe Biên Hòa đi Bến Tre | Bảy Nghĩa | 70.000₫
+[ben-xe-bien-hoa] Bến xe Biên Hòa đi Trà Vinh | Tân Vạn Thịnh | 120.000₫
