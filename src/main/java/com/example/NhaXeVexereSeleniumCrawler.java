@@ -66,6 +66,41 @@ public class NhaXeVexereSeleniumCrawler {
         driver.get(url);
         Thread.sleep(1000); // chờ JS render lần đầu
 
+        // Extract company name from the page
+        // Extract company name from the page (robust)
+        String companyName = "";
+        try {
+            String html0 = driver.getPageSource();
+            Document doc0 = Jsoup.parse(html0, url);
+
+            // 1) Hero heading (ổn định nhất): div class bắt đầu bằng
+            // HeroSection__Information + p class có "Heading01"
+            Element heroTitle = doc0.selectFirst("div[class^=HeroSection__Information] p[class*='Heading01']");
+            if (heroTitle != null && !heroTitle.text().trim().isEmpty()) {
+                companyName = heroTitle.text().trim();
+            }
+
+            // 2) Fallback: breadcrumb phần cuối cùng
+            if (companyName.isEmpty()) {
+                Element bcLast = doc0.selectFirst(".BreadCrumb__Container-sc-9ju0a1-0 *:last-child");
+                if (bcLast != null && !bcLast.text().trim().isEmpty()) {
+                    companyName = bcLast.text().trim();
+                }
+            }
+
+            // 3) Fallback: <title> (loại bỏ đuôi “- VeXeRe ...”)
+            if (companyName.isEmpty()) {
+                String title = doc0.title();
+                if (title != null && !title.isBlank()) {
+                    title = title.replaceFirst("\\s*-\\s*VeXeRe.*$", "").trim();
+                    if (!title.isEmpty())
+                        companyName = title;
+                }
+            }
+        } catch (Exception e) {
+            System.err.println("Could not extract company name: " + e.getMessage());
+        }
+
         while (true) {
             // Lấy HTML hiện tại và parse bằng Jsoup
             String html = driver.getPageSource();
@@ -77,7 +112,12 @@ public class NhaXeVexereSeleniumCrawler {
                 if (a != null) {
                     String text = a.text().trim();
                     if (!text.isEmpty()) {
-                        routes.add(text);
+                        // Add company name to the route if available
+                        if (!companyName.isEmpty()) {
+                            routes.add(text + " | " + companyName);
+                        } else {
+                            routes.add(text);
+                        }
                     }
                 }
             }
