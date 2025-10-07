@@ -1,0 +1,343 @@
+//// ==============================================
+//// ms_route (Address, Stations, Routes, Fleet)
+//// ==============================================
+
+Enum gender {
+  MALE
+  FEMALE
+  OTHER
+}
+
+Enum staff_status {
+  ACTIVE
+  INACTIVE
+}
+
+Enum vehicle_type {
+  STANDARD_BUS_VIP
+  STANDARD_BUS_NORMAL
+  LIMOUSINE
+}
+
+Enum lock_status {
+  HELD
+  EXPIRED
+  COMMITTED
+}
+
+Enum seat_type {        // NEW
+  SLEEPER
+  NORMAL
+}
+
+Table province {
+  id UUID [pk, not null]
+  province_code varchar(32) [not null, unique]
+  name varchar(180) [not null]
+  name_en varchar(180)
+  full_name varchar(220)
+  full_name_en varchar(220)
+  code_name varchar(180)
+  administrative_unit_id int
+  administrative_region_id int
+
+  created_at timestamptz [not null]
+  updated_at timestamptz
+  is_deleted boolean
+  deleted_at timestamptz
+  deleted_by UUID
+}
+
+Table district {
+  id UUID [pk, not null]
+  province_id UUID [not null, ref: > province.id]
+  district_code varchar(32) [not null, unique]
+  name varchar(180) [not null]
+  name_en varchar(180)
+  full_name varchar(220)
+  full_name_en varchar(220)
+  code_name varchar(180)
+  administrative_unit_id int
+
+  created_at timestamptz [not null]
+  updated_at timestamptz
+  is_deleted boolean
+  deleted_at timestamptz
+  deleted_by UUID
+}
+
+Table ward {
+  id UUID [pk, not null]
+  district_id UUID [not null, ref: > district.id]
+  ward_code varchar(32) [not null, unique]
+  name varchar(180) [not null]
+  name_en varchar(180)
+  full_name varchar(220)
+  full_name_en varchar(220)
+  code_name varchar(180)
+  administrative_unit_id int
+
+  created_at timestamptz [not null]
+  updated_at timestamptz
+  is_deleted boolean
+  deleted_at timestamptz
+  deleted_by UUID
+}
+
+Table address {
+  id UUID [pk, not null]
+  ward_id UUID [not null, ref: > ward.id]
+  street_address varchar(255) [not null]
+  latitude decimal(10,6)        // ~1e-6 deg ≈ 0.11m
+  longitude decimal(10,6)
+
+  created_at timestamptz [not null]
+  updated_at timestamptz
+  is_deleted boolean
+  deleted_at timestamptz
+  deleted_by UUID
+
+  Indexes {
+    (ward_id, street_address) [name: "idx_address_ward_street"]
+  }
+}
+
+Table station {
+  id UUID [pk, not null]
+  address_id UUID [not null, ref: > address.id, unique]
+  name varchar(200) [not null]
+  phone_number varchar(32)
+  description text
+  active boolean [not null]
+
+  created_at timestamptz [not null]
+  updated_at timestamptz
+  is_deleted boolean
+  deleted_at timestamptz
+  deleted_by UUID
+
+  Indexes {
+    (name) [name: "idx_station_name"]
+  }
+}
+
+Table route {
+  id UUID [pk, not null]
+  origin_station_id UUID [not null, ref: > station.id]
+  destination_station_id UUID [not null, ref: > station.id]
+  route_code varchar(40) [not null, unique]
+  distance_km decimal(8,2)
+
+  created_at timestamptz [not null]
+  updated_at timestamptz
+  is_deleted boolean
+  deleted_at timestamptz
+  deleted_by UUID
+
+  Indexes {
+    (origin_station_id, destination_station_id) [name: "idx_route_origin_dest"]
+  }
+}
+
+Table seat_map {
+  id UUID [pk, not null]
+  name varchar(120) [not null]
+
+  created_at timestamptz [not null]
+  updated_at timestamptz
+  is_deleted boolean
+  deleted_at timestamptz
+  deleted_by UUID
+
+  Indexes {
+    (name) [name: "idx_seat_map_name"]
+  }
+}
+
+Table vehicle {
+  id UUID [pk, not null]
+  seat_map_id UUID [not null, ref: > seat_map.id, unique]
+  type vehicle_type [not null]
+  type_factor decimal(6,3)                // pricing factor by vehicle type
+  plate_number varchar(20) [not null, unique]
+  brand varchar(120)
+  description text
+
+  created_at timestamptz [not null]
+  updated_at timestamptz
+  is_deleted boolean
+  deleted_at timestamptz
+  deleted_by UUID
+
+  Indexes {
+    (brand) [name: "idx_vehicle_brand"]
+  }
+}
+
+Table floor {
+  id UUID [pk, not null]
+  seat_map_id UUID [not null, ref: > seat_map.id]
+  floor_no int [not null]                  // 1 or 2
+  price_factor_floor decimal(6,3)
+
+  created_at timestamptz [not null]
+  updated_at timestamptz
+  is_deleted boolean
+  deleted_at timestamptz
+  deleted_by UUID
+
+  Indexes {
+    (seat_map_id, floor_no) [unique, name: "uq_floor_seatmap_no"]
+  }
+}
+
+Table seat {
+  id UUID [pk, not null]
+  floor_id UUID [not null, ref: > floor.id]
+  seat_no varchar(16) [not null]
+  row_no int
+  col_no int
+  price_factor decimal(6,3)
+  seat_type seat_type                    // NEW
+
+  created_at timestamptz [not null]
+  updated_at timestamptz
+  is_deleted boolean
+  deleted_at timestamptz
+  deleted_by UUID
+
+  Indexes {
+    (floor_id, seat_no) [unique, name: "uq_seat_floor_no"]
+  }
+}
+
+Table staff {
+  id UUID [pk, not null]
+  name varchar(160) [not null]
+  age int
+  gender gender
+  phone_number varchar(32)
+  status staff_status
+
+  created_at timestamptz [not null]
+  updated_at timestamptz
+  is_deleted boolean
+  deleted_at timestamptz
+  deleted_by UUID
+}
+
+Table driver {
+  id UUID [pk, not null]
+  staff_id UUID [not null, ref: > staff.id, unique]
+  license_class varchar(32)
+  years_experience int
+
+  created_at timestamptz [not null]
+  updated_at timestamptz
+  is_deleted boolean
+  deleted_at timestamptz
+  deleted_by UUID
+}
+
+Table attendant {
+  id UUID [pk, not null]
+  staff_id UUID [not null, ref: > staff.id, unique]
+
+  created_at timestamptz [not null]
+  updated_at timestamptz
+  is_deleted boolean
+  deleted_at timestamptz
+  deleted_by UUID
+}
+
+Table trip {
+  id UUID [pk, not null]
+  route_id UUID [not null, ref: > route.id]
+  vehicle_id UUID [not null, ref: > vehicle.id]
+  driver_id UUID [not null, ref: > driver.id]
+  attendant_id UUID [ref: > attendant.id]
+  trip_code varchar(40) [not null, unique]
+  departure_time timestamptz [not null]
+  arrival_time timestamptz [not null]
+  base_fare decimal(19,2) [not null]      // money precision
+
+  created_at timestamptz [not null]
+  updated_at timestamptz
+  is_deleted boolean
+  deleted_at timestamptz
+  deleted_by UUID
+
+  Indexes {
+    (route_id, departure_time) [name: "idx_trip_route_departure"],
+    (vehicle_id)                [name: "idx_trip_vehicle"]
+  }
+}
+
+Table trip_seat {
+  id UUID [pk, not null]
+  trip_id UUID [not null, ref: > trip.id]
+  seat_no varchar(16) [not null]
+  floor_no int [not null]
+  price_factor decimal(6,3)
+  booked boolean
+  reserved_by UUID
+  reserved_until timestamptz
+
+  created_at timestamptz [not null]
+  updated_at timestamptz
+  is_deleted boolean
+  deleted_at timestamptz
+  deleted_by UUID
+
+  Indexes {
+    (trip_id, seat_no) [unique, name: "uq_tripseat_trip_no"],
+    (trip_id, reserved_until) [name: "idx_tripseat_reserved_until"]
+  }
+}
+
+Table seat_lock {
+  id UUID [pk, not null]
+  trip_id UUID [not null, ref: > trip.id]
+  seat_no varchar(16) [not null]
+  user_id UUID
+  status lock_status [not null]
+  expires_at timestamptz [not null]
+  idempotency_key varchar(80) [unique]    // make retries safe
+
+  // generated/functional column for conditional unique will be added via SQL migration
+  // seat_no_locked varchar(16)             // see SQL below
+
+  created_at timestamptz [not null]
+  updated_at timestamptz
+  is_deleted boolean
+  deleted_at timestamptz
+  deleted_by UUID
+
+  Indexes {
+    (trip_id, seat_no) [note: 'Replaced by conditional unique on (trip_id, seat_no) when status in (HELD, COMMITTED) via generated column'],
+    (status, expires_at) [name: "idx_seatlock_status_expires"],
+    (trip_id, expires_at) [name: "idx_seatlock_trip_expires"]
+  }
+}
+
+Table file_route {
+  id UUID [pk, not null]
+  bucket varchar(120) [not null]
+  object_key varchar(255) [not null]
+  content_type varchar(120)
+  size bigint
+
+  station_id UUID [ref: > station.id, unique]
+  vehicle_id UUID [ref: > vehicle.id, unique]
+  seat_map_id UUID [ref: > seat_map.id, unique]
+
+  created_at timestamptz [not null]
+  updated_at timestamptz
+  is_deleted boolean
+  deleted_at timestamptz
+  deleted_by UUID
+
+  Indexes {
+    (bucket, object_key) [name: "idx_file_route_object"]
+  }
+}

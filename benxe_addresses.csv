@@ -1,0 +1,139 @@
+station_slug,station_name,address,province
+ben-xe-vung-tau,Bến xe Vũng Tàu,"Nam Kỳ Khởi Nghĩa, Thắng Tam, Vũng Tàu",Bà Rịa-Vũng Tàu
+ben-xe-duc-long-gia-lai,Bến xe Đức Long Gia Lai,"43 Lý Nam Đế, phường Trà Bá, Pleiku",Gia Lai
+ben-xe-91b-can-tho,Bến xe 91B Cần Thơ,"Lộ 91B Nguyễn Văn Linh, Ninh Kiều, Thành phố Cần Thơ",Cần Thơ
+ben-xe-an-phu,Bến xe An Phú,"9 Liên Huyện, An Phú, Thuận An, Bình Dương, Vietnam, Thuận An",Bình Dương
+ben-xe-an-suong,Bến xe An Sương,"Quốc Lộ 22, Bà Điểm, Hóc Môn, Hồ Chí Minh, Vietnam, Hóc Môn, Thành phố Hồ Chí Minh",Hồ Chí Minh
+ben-xe-ba-tri,Bến xe Ba Tri,"Tỉnh Lộ 887, An Bình Tây, Ba Tri, Bến Tre, Vietnam, Ba Tri",Bến Tre
+ben-xe-ba-don,Bến xe Ba Đồn,"69 Hùng Vương, Quảng Trạch",Quảng Bình
+ben-xe-bien-hoa,Bến xe Biên Hòa,"04 Nguyễn Ái Quốc, Quang Vinh, tp. Biên Hòa, Đồng Nai, Vietnam, Biên Hòa",Đồng Nai
+ben-xe-buon-ma-thuot,Bến xe Buôn Ma Thuột,"72 Ngô Gia Tự, Buôn Ma Thuột",Đắk Lắk
+ben-xe-bai-chay,Bến xe Bãi Cháy,"Số 17 Đường 279, Hạ Long",Quảng Ninh
+ben-xe-binh-chau,Bến xe Bình Châu,"Âp Bình An,Xa Bình Châu ,Xuyên Mộc Vũ ng Tàu, Bình Châu, Bà Rịa, Bà Rịa - Vũng Tàu, Vietnam, Xuyên Mộc",Bà Rịa-Vũng Tàu
+ben-xe-bac-ruong,Bến xe Bắc Ruộng,"Đường 717 - Bắc Ruộng, Tánh Linh",Bình Thuận
+ben-xe-ben-tre,Bến xe Bến Tre,"QL60, Sơn Đông, Tp. Bến Tre, Bến Tre, Vietnam, Bến Tre",Bến Tre
+ben-xe-ben-trai,Bến xe Bến Trại,"Tỉnh lộ 392B, thôn An Phong, xã Tiền Phong, Thanh Miện",Hải Dương
+ben-xe-bong-son,Bến xe Bồng Sơn,"Bồng Sơn 1A, TT. Bồng Sơn, Hoài Nhơn, Bình Định, Vietnam, Hoài Nhơn",Bình Định
+ben-xe-chin-nghia,Bến xe Chín Nghĩa,"Đường Đinh Tiên Hoàng, phường Nghĩa Chánh, Quảng Ngãi",Quảng Ngãi
+ben-xe-cho-luc,Bến xe Chợ Lục,"xã Thái Xuyên, Thái Thụy",Thái Bình
+ben-xe-ca-mau,Bến xe Cà Mau,"Quốc Lộ 1A, Lý Thường Kiệt, Khóm 5, Phường 6, Cà Mau",Cà Mau
+ben-xe-can-tho,Bến xe Cần Thơ,"Ninh Kiều, Thành phố Cần Thơ",Ninh Kiều
+ben-xe-cau-rao,Bến xe Cầu Rào,"Số 1 Thiên Lôi, Ngô Quyền, Thành phố Hải Phòng",Hải Phòng
+ben-xe-cua-ong,Bến xe Cửa Ông,"Số 48 Lý Thường Kiệt, Cửa Ông, Cẩm Phả",Quảng Ninh
+ben-xe-duyen-hai,Bến xe Duyên Hải,"Khóm 2 Quốc Lộ 53 - Thị Trấn Duyên Hải, Thị xã Duyên Hải",Trà Vinh
+ben-xe-ea-sup,Bến xe Ea Súp,"Chu Văn An, tt. Ea Súp, Ea Súp, Đắk Lắk, Vietnam, Ea Súp",Đắk Lắk
+ben-xe-eakar,Bến xe Eakar,"6 Nguyễn Tất Thành, Ea Kar, Đắk Lắk, Vietnam, Ea Kar",Đắk Lắk
+ben-xe-gia-lam,Bến xe Gia Lâm,"Số 9 Ngô Gia Khảm, Long Biên, Thành phố Hà Nội",Hà Nội
+ben-xe-gia-nghia,Bến xe Gia Nghĩa,"Đường Mạc Thị Bưởi, Phường Nghĩa Thành, Gia Nghĩa",Đắk Nông
+ben-xe-giao-thuy,Bến xe Giao Thủy,"ĐT489, TT. Ngô Đồng, Nam Định, Giao Thủy",Nam Định
+ben-xe-go-cong,Bến xe Gò Công,"Đường Đồng Khởi - Phường 4, Gò Công",Tiền Giang
+ben-xe-ha-giang,Bến xe Hà Giang,"Bến xe Hà Giang, Hà Giang",Hà Giang
+ben-xe-ha-tien,Bến xe Hà Tiên,"QL 80, Kp 5, P.Bình San, Hà Tiên",Kiên Giang
+ben-xe-ha-tinh,Bến xe Hà Tĩnh,"Đường Hàm Nghi kéo dài, Bắc Thượng, Thạch Hà",Hà Tĩnh
+ben-xe-hung-vuong,Bến xe Hùng Vương,"Số 01 Hùng Vương, Thới Bình, Ninh Kiều, Thành phố Cần Thơ",Cần Thơ
+ben-xe-hung-yen,Bến xe Hưng Yên,"Phường Hiền Nam, Hưng Yên",Hưng Yên
+ben-xe-ka-do,Bến xe Ka Đô,Đơn Dương,Lâm Đồng
+ben-xe-khach-da-nang,Bến xe trung tâm Đà Nẵng,"185 Tôn Đức Thắng, Liên Chiểu, Thành phố Đà Nẵng",Đà Nẵng
+ben-xe-khanh-binh,Bến xe Khánh Bình,"Khánh Bình, An Giang, Vietnam, An Phú",An Giang
+ben-xe-kim-son,Bến xe Kim Sơn,"Bến xe Kim Sơn, Kim Sơn",Ninh Bình
+ben-xe-kim-tan,Bến xe Kim Tân,Thạch Thành,Thanh Hóa
+ben-xe-kien-duc,Bến xe Kiến Đức,"Bến xe khách Kiến Đức - huyện Đắk Rlấp, Đăk R`Lấp",Đắk Nông
+ben-xe-kon-tum,Bến xe Kon Tum,"281 Phan Đình Phùng , Kon Tum",Kon Tum
+ben-xe-ky-anh,Bến xe Kỳ Anh,"Bến xe thị trấn Kỳ Anh, Thị xã Kỳ Anh",Hà Tĩnh
+ben-xe-lai-chau,Bến xe Lai Châu,"Phường Tân Phong, Lai Châu",Lai Châu
+ben-xe-long-hai,Bến xe Long Hải,"Long Hải, Long Điền, Ba Ria - Vung Tau, Vietnam, Long Hải",Bà Rịa-Vũng Tàu
+ben-xe-long-xuyen,Bến xe Long Xuyên,"392, P, Phạm Cự Lượng, Mỹ Quý, Tp. Long Xuyên, An Giang, Vietnam, Long Xuyên",An Giang
+ben-xe-lac-long,Bến xe Lạc Long,"22 Cù Chính Lan, Phường Minh Khai, Hồng Bàng, Thành phố Hải Phòng",Hải Phòng
+ben-xe-lang-son,Bến xe Lạng Sơn,"Số 28A, Đường Ngô Quyền, Phường Vĩnh Trại , Lạng Sơn",Lạng Sơn
+ben-xe-lap-thach,Bến xe Lập Thạch,Lập Thạch,Vĩnh Phúc
+ben-xe-loc-ninh,Bến xe Lộc Ninh,"Ấp 1, Thị trấn Lộc Ninh, Lộc Ninh",Bình Phước
+ben-xe-minh-loc,Bến xe Minh Lộc,"xã Minh Lộc, Hậu Lộc",Thanh Hóa
+ben-xe-mien-tay,Bến xe Miền Tây,"395 Đ. Kinh Dương Vương, Bình Tân, Thành phố Hồ Chí Minh",Hồ Chí Minh
+ben-xe-mien-dong,Bến xe Miền Đông,"292 Đinh Bộ Lĩnh, Bình Thạnh, Thành phố Hồ Chí Minh",Hồ Chí Minh
+ben-xe-mong-cai,Bến xe Móng Cái,"Đường Hùng Vương, Móng Cái",Quảng Ninh
+ben-xe-mong-duong,Bến xe Mông Dương,"18 Mông Dương, Cẩm Phả",Quảng Ninh
+ben-xe-mui-ne,Bến xe Mũi Né,"Huỳnh Thúc Kháng, Mũi Né",Bình Thuận
+ben-xe-moc-chau,Bến xe Mộc Châu,"Đường Tô Hiệu, Mộc Châu, Mộc Châu",Sơn La
+ben-xe-nam-trung,Bến xe Nam Trung,Tiền Hải,Thái Bình
+ben-xe-nam-dan,Bến xe Nam Đàn,"Xã Vân Diêm, Nam Đàn",Nghệ An
+ben-xe-nam-dinh,Bến xe Nam Định,"Xã Lộc Hòa, Nam Định",Nam Định
+ben-xe-nga-tu-ga,Bến xe Ngã Tư Ga,"720 Quốc lộ 1A, P. Thạnh Lộc, Q.12, Tp. Hồ Chí Minh, Quận 12, Thành phố Hồ Chí Minh",Hồ Chí Minh
+ben-xe-ngoc-lac,Bến xe Ngọc Lặc,"Thị Trấn Ngọc Lặc, Ngọc Lặc",Thanh Hóa
+ben-xe-niem-nghia,Bến xe Niệm Nghĩa,"Số 275 Trần Nguyên Hãn, Lê Chân, Thành phố Hải Phòng",Hải Phòng
+ben-xe-phan-thiet,Bến xe Phan Thiết,"Tiến Lợi, Phan Thiết",Bình Thuận
+ben-xe-phu-tho,Bến xe Phú Thọ,"Phường Phong Châu, Phú Thọ",Phú Thọ
+ben-xe-phuoc-hai,Bến xe Phước Hải,"Phừơc Hải, Tân Hải, Tân Thành, Bà Rịa - Vũng Tàu, Vietnam, Đất Đỏ",Bà Rịa-Vũng Tàu
+ben-xe-phuoc-long,Bến xe Phước Long,"Tổ 2 - Khu Phố 1 - P. Long Thủy, Phước Long",Bình Phước
+ben-xe-pho-moi,Bến xe Phố Mới,"Phường Phố Mới, Lào Cai",Lào Cai
+ben-xe-quy-nhon,Bến xe Quy Nhơn,"71 Tây Sơn , Ghềnh Ráng, Thành phố Qui Nhơn, Bình Định, Vietnam, Quy Nhơn",Bình Định
+ben-xe-quy-hop,Bến xe Quỳ Hợp,"Km11+200 khối 2, thị trấn Quỳ Hợp, Quỳ Hợp",Nghệ An
+ben-xe-quynh-coi,Bến xe Quỳnh Côi,"Khu 3, thị trấn Quỳnh Côi, Quỳnh Phụ",Thái Bình
+ben-xe-quy-nhat,Bến xe Quỹ Nhất,"Thị Trấn Quỹ Nhất, Nghĩa Hưng",Nam Định
+ben-xe-rach-gia,Bến xe Rạch Giá,"260A Nguyễn Bỉnh Khiêm, P.Vĩnh Thanh, Rạch Giá",Kiên Giang
+ben-xe-soc-trang,Bến xe Sóc Trăng,"Lê Duẩn, phường 3, Sóc Trăng",Sóc Trăng
+ben-xe-son-la,Bến xe Sơn La,"Đường Lê Duẩn, Chiềng Sinh, Sơn La",Sơn La
+ben-xe-tam-bac,Bến xe Tam Bạc,"3 Tam Bạc, Phạm Hồng Thái, Hồng Bàng, Thành phố Hải Phòng",Hải Phòng
+ben-xe-thanh-pho-cao-bang,Bến xe Thành phố Cao Bằng,"Đường Pác Pó, Sông Bằng, Cao Bằng",Cao Bằng
+ben-xe-thai-binh,Bến xe Thái Bình,"Tỉnh Lộ 223, Thái Bình",Thái Bình
+ben-xe-tien-hai,Bến xe Tiền Hải,"Phố Hùng Thắng, Tiền Hải",Thái Bình
+ben-xe-trung-tam-lao-cai,Bến xe Trung tâm Lào Cai,"Phường Bình Minh, Lào Cai",Lào Cai
+ben-xe-trung-tam-thai-nguyen,Bến xe Trung tâm Thái Nguyên,"Ngõ 398 Thống Nhất, Đồng Quang, Thái Nguyên",Thái Nguyên
+ben-xe-trung-tam-da-nang,Bến xe trung tâm Đà Nẵng,"185 Tôn Đức Thắng, Liên Chiểu, Thành phố Đà Nẵng",Đà Nẵng
+ben-xe-tra-men,Bến xe Trà Men,"giao lộ Hùng Vương - Quốc lộ 1A, Sóc Trăng",Sóc Trăng
+ben-xe-tra-vinh,Bến xe Trà Vinh,"559 Quốc lộ 54, Khóm 4, Phường 9, Trà Vinh",Trà Vinh
+ben-xe-truong-hai,Bến xe Trường Hải,"Đường tỉnh 741, thị xã Đồng Xoài, Đồng Xoài",Bình Phước
+ben-xe-tuyen-quang,Bến xe Tuyên Quang,"Số 95 Chiến Thắng Sông Lô, Tân Quang, Tuyên Quang",Tuyên Quang
+ben-xe-tan-chau,Bến xe Tân Châu,"Trần Phú, Long Châu, Tx. Tân Châu, An Giang, Vietnam, Tân Châu",An Giang
+ben-xe-tan-ha,Bến xe Tân Hà,"Xã Tân Hà, Lâm Hà",Lâm Đồng
+ben-xe-tan-ky,Bến xe Tân Kỳ,"QL15, Tân Kỳ (Bến xe Lạt), Tân Kỳ",Nghệ An
+ben-xe-tan-phu,Bến xe Tân Phú,"Km125, Quốc Lộ 20 – Tân Phú, Tân Phú",Đồng Nai
+ben-xe-tay-ninh,Bến xe Tây Ninh,"136 Trưng Nữ Vương, Tây Ninh",Tây Ninh
+ben-xe-vinh-loc,Bến xe Vĩnh Lộc,"Thị trấn Vĩnh Lộc, Vĩnh Lộc",Thanh Hóa
+ben-xe-vinh-thuan,Bến xe Vĩnh Thuận,"943 Quốc lộ 63, Vĩnh Thuận",Kiên Giang
+ben-xe-vinh-tru,Bến xe Vĩnh Trụ,"Ngã Tư Gốc Gạo, Lý Nhân",Hà Nam
+ben-xe-vinh-yen,Bến xe Vĩnh Yên,"Phường Khai Quang, Vĩnh Yên",Vĩnh Phúc
+ben-xe-yen-bai,Bến xe Yên Bái,"Số 37 Nguyễn Thái Học, Yên Bái",Yên Bái
+ben-xe-yen-cat,Bến xe Yên Cát,"Thị trấn Yên Cát, Như Xuân",Thanh Hóa
+ben-xe-khach-binh-duong,Bến xe khách Bình Dương,"311 Đường 30/4, Phú Thọ, Thủ Dầu Một, Thủ Dầu Một",Bình Dương
+ben-xe-khach-bac-giang,Bến xe khách Bắc Giang,"Số 486 Xương Giang, Ngô Quyền, Bắc Giang",Bắc Giang
+ben-xe-khach-bac-kan,Bến xe khách Bắc Kạn,"Đường Kon Tum, Phùng Chí Kiên, Bắc Kạn",Bắc Kạn
+ben-xe-khach-cai-rong,Bến xe khách Cái Rồng,"Khu phố 7, Thị Trấn Cái Rồng, Vân Đồn",Quảng Ninh
+ben-xe-khach-hoa-binh,Bến xe khách Hòa Bình,"Trần Hưng Đạo, Hoà Bình",Hòa Bình
+ben-xe-khach-ho-phong,Bến xe khách Hộ Phòng,"QL1A, Hộ Phòng, Giá Rai, Bạc Liêu, Vietnam, Giá Rai",Bạc Liêu
+ben-xe-khach-kien-xuong,Bến xe khách Kiến Xương,"Thị trấn Kiến Xương, Kiến Xương",Thái Bình
+ben-xe-khach-krong-no,Bến xe khách Krông Nô,"Tỉnh Lộ 684, Đăk Mâm, Krông Nô",Đắk Nông
+ben-xe-khach-luc-yen,Bến xe khách Lục Yên,"Thị Trấn Yên Thế, Lục Yên",Yên Bái
+ben-xe-khach-muong-la,Bến xe khách Mường La,"Thị trấn Ít Ong, Mường La",Sơn La
+ben-xe-khach-nghia-lo,Bến xe khách Nghĩa Lộ,"Quốc lộ 32, Trung Tâm, Văn Chấn",Yên Bái
+ben-xe-khach-nho-quan,Bến xe khách Nho Quan,"Tỉnh Lộ 477, thị trấn Nho Quan, Nho Quan",Ninh Bình
+ben-xe-khach-ninh-giang,Bến xe khách Ninh Giang,"Quốc lộ 37, Đồng Tâm, Ninh Giang",Hải Dương
+ben-xe-khach-phu-my,Bến xe khách Phù Mỹ,"Đường Quang Trung, Phù Mỹ",Bình Định
+ben-xe-khach-quynh-nhai,Bến xe khách Quỳnh Nhai,"Mường Giàng, Quỳnh Nhai, Quỳnh Nhai",Sơn La
+ben-xe-khach-thinh-long,Bến xe khách Thịnh Long,Hải Hậu,Nam Định
+ben-xe-khach-tan-dong-hiep,Bến xe khách Tân Đông Hiệp,"DT743A, Tân Đông Hiệp, Dĩ An, Binh Duong, Vietnam, Dĩ An",Bình Dương
+ben-xe-khach-xuan-loc,Bến xe khách Xuân Lộc,"Hùng Vương, Gia Ray, Xuân Lộc, Đồng Nai, Việt Nam, Xuân Lộc",Đồng Nai
+ben-xe-khach-huyen-xuyen-moc,Bến xe khách huyện Xuyên Mộc,"QL55, Phước Thuận, Xuyên Mộc, Bà Rịa - Vũng Tàu, Vietnam, Xuyên Mộc",Bà Rịa-Vũng Tàu
+ben-xe-khach-huyen-dak-nong,Bến xe khách huyện Đắk Nông,"Thị Trấn Gia Nghĩa, Gia Nghĩa",Đắk Nông
+ben-xe-khach-thi-tran-diem-dien,Bến xe khách thị trấn Diêm Điền,"Thị trấn Diêm Điền, Thái Thụy",Thái Bình
+ben-xe-lien-tinh-da-lat,Bến xe liên tỉnh Đà Lạt,"01 Tô Hiến Thành, Đà Lạt",Lâm Đồng
+ben-xe-lien-tinh-dak-lak,Bến xe liên tỉnh Đắk Lắk,"Km4 - Đường Nguyễn Chí Thanh, Phường Tân An, Buôn Ma Thuột",Đắk Lắk
+ben-xe-moi-chau-doc,Bến xe mới Châu Đốc,"QL91, Vĩnh Mỹ, Châu Đốc, Châu Phú B, Vietnam, Châu Đốc",An Giang
+ben-xe-phia-nam-hue,Bến xe phía Nam Huế,"97 An Dương Vương, Huế",Thừa Thiên Huế
+ben-xe-phia-bac-hue,Bến xe phía bắc Huế,"Số 132 Lý Thái Tổ, An Hòa, Huế",Thừa Thiên Huế
+ben-xe-phia-bac-lang-son,Bến xe phía bắc Lạng Sơn,"Khối 1, T.T Cao Lộc, Cao Lộc",Lạng Sơn
+ben-xe-phia-bac-thanh-hoa,Bến xe phía bắc Thanh Hóa,"Số 418 Bà Triệu, Đông Thọ, Thanh Hóa",Thanh Hóa
+ben-xe-phia-nam-buon-me-thuot,Bến xe phía nam Buôn Mê Thuột,"Võ Văn Kiệt, Buôn Ma Thuột",Đắk Lắk
+ben-xe-phia-nam-thanh-hoa,Bến xe phía nam Thanh Hóa,"690 Quang Trung, P. Đông Vệ, Thanh Hóa",Thanh Hóa
+ben-xe-sapa,Bến xe sapa,"Quốc lộ 4D, Sapa, Sa Pa",Lào Cai
+ben-xe-thi-xa-an-khe,Bến xe thị xã An Khê,"523 Quang Trung, An Khê",Gia Lai
+ben-xe-thi-xa-la-gi,Bến xe thị xã La Gi,"206 Thống Nhất, P. Tân Thiện, La Gi",Bình Thuận
+ben-xe-tau-nam-can,Bến xe tàu Năm Căn,"Ấp Cái Nai, đường Nguyễn Tất Thành, QL 1A, Thị trấn Năm Căn, Năm Căn",Cà Mau
+ben-xe-o-mon,Bến xe Ô Môn,"Quốc lộ 91, Phường Châu Văn Liêm, Ô Môn, Thành phố Cần Thơ",Cần Thơ
+ben-xe-dien-bien,Bến xe Điện Biên,"Phường Mường Thanh, Điện Biên Phủ",Điện Biên
+ben-xe-do-luong,Bến xe Đô Lương,"Xã Yên Sơn, Đô Lương",Nghệ An
+ben-xe-dong-binh,Bến xe Đông Bình,Nghĩa Hưng,Nam Định
+ben-xe-dong-hung,Bến xe Đông Hưng,Đông Hưng,Thái Bình
+ben-xe-da-teh,Bến xe Đạ Tẻh,"Khu phố 3, thị trấn Đạ tẻh, Đạ Tẻh",Lâm Đồng
+ben-xe-dak-mil,Bến xe Đắk Mil,"Thôn Minh Đoài, Xã Đức Thịnh, Đăk Mil",Đắk Nông
+ben-xe-dong-hoi,Bến xe Đồng Hới,"Nguyễn Hữu Cảnh, Phường Hải Thịnh, Đồng Hới",Quảng Bình
+ben-xe-duc-linh,Bến xe Đức Linh,"Đức Linh, Đức Linh",Bình Thuận

@@ -1,0 +1,697 @@
+id;district_code;name;name_en;full_name;full_name_en;code_name;administrative_unit_id;created_at;updated_at;is_deleted;deleted_at;deleted_by;province_id
+1500;1;Quận Ba Đình;;Quận Ba Đình;;quan_ba_dinh;;2025-09-27 21:45:20;;false;;\N;1500
+1501;2;Quận Hoàn Kiếm;;Quận Hoàn Kiếm;;quan_hoan_kiem;;2025-09-27 21:45:20;;false;;\N;1500
+1502;3;Quận Tây Hồ;;Quận Tây Hồ;;quan_tay_ho;;2025-09-27 21:45:20;;false;;\N;1500
+1503;4;Quận Long Biên;;Quận Long Biên;;quan_long_bien;;2025-09-27 21:45:20;;false;;\N;1500
+1504;5;Quận Cầu Giấy;;Quận Cầu Giấy;;quan_cau_giay;;2025-09-27 21:45:20;;false;;\N;1500
+1505;6;Quận Đống Đa;;Quận Đống Đa;;quan_dong_da;;2025-09-27 21:45:20;;false;;\N;1500
+1506;7;Quận Hai Bà Trưng;;Quận Hai Bà Trưng;;quan_hai_ba_trung;;2025-09-27 21:45:20;;false;;\N;1500
+1507;8;Quận Hoàng Mai;;Quận Hoàng Mai;;quan_hoang_mai;;2025-09-27 21:45:20;;false;;\N;1500
+1508;9;Quận Thanh Xuân;;Quận Thanh Xuân;;quan_thanh_xuan;;2025-09-27 21:45:20;;false;;\N;1500
+1509;16;Huyện Sóc Sơn;;Huyện Sóc Sơn;;huyen_soc_son;;2025-09-27 21:45:20;;false;;\N;1500
+1510;17;Huyện Đông Anh;;Huyện Đông Anh;;huyen_dong_anh;;2025-09-27 21:45:20;;false;;\N;1500
+1511;18;Huyện Gia Lâm;;Huyện Gia Lâm;;huyen_gia_lam;;2025-09-27 21:45:20;;false;;\N;1500
+1512;19;Quận Nam Từ Liêm;;Quận Nam Từ Liêm;;quan_nam_tu_liem;;2025-09-27 21:45:20;;false;;\N;1500
+1513;20;Huyện Thanh Trì;;Huyện Thanh Trì;;huyen_thanh_tri;;2025-09-27 21:45:20;;false;;\N;1500
+1514;21;Quận Bắc Từ Liêm;;Quận Bắc Từ Liêm;;quan_bac_tu_liem;;2025-09-27 21:45:20;;false;;\N;1500
+1515;250;Huyện Mê Linh;;Huyện Mê Linh;;huyen_me_linh;;2025-09-27 21:45:20;;false;;\N;1500
+1516;268;Quận Hà Đông;;Quận Hà Đông;;quan_ha_dong;;2025-09-27 21:45:20;;false;;\N;1500
+1517;269;Thị xã Sơn Tây;;Thị xã Sơn Tây;;thi_xa_son_tay;;2025-09-27 21:45:20;;false;;\N;1500
+1518;271;Huyện Ba Vì;;Huyện Ba Vì;;huyen_ba_vi;;2025-09-27 21:45:20;;false;;\N;1500
+1519;272;Huyện Phúc Thọ;;Huyện Phúc Thọ;;huyen_phuc_tho;;2025-09-27 21:45:20;;false;;\N;1500
+1520;273;Huyện Đan Phượng;;Huyện Đan Phượng;;huyen_dan_phuong;;2025-09-27 21:45:20;;false;;\N;1500
+1521;274;Huyện Hoài Đức;;Huyện Hoài Đức;;huyen_hoai_duc;;2025-09-27 21:45:20;;false;;\N;1500
+1522;275;Huyện Quốc Oai;;Huyện Quốc Oai;;huyen_quoc_oai;;2025-09-27 21:45:20;;false;;\N;1500
+1523;276;Huyện Thạch Thất;;Huyện Thạch Thất;;huyen_thach_that;;2025-09-27 21:45:20;;false;;\N;1500
+1524;277;Huyện Chương Mỹ;;Huyện Chương Mỹ;;huyen_chuong_my;;2025-09-27 21:45:20;;false;;\N;1500
+1525;278;Huyện Thanh Oai;;Huyện Thanh Oai;;huyen_thanh_oai;;2025-09-27 21:45:20;;false;;\N;1500
+1526;279;Huyện Thường Tín;;Huyện Thường Tín;;huyen_thuong_tin;;2025-09-27 21:45:20;;false;;\N;1500
+1527;280;Huyện Phú Xuyên;;Huyện Phú Xuyên;;huyen_phu_xuyen;;2025-09-27 21:45:20;;false;;\N;1500
+1528;281;Huyện Ứng Hòa;;Huyện Ứng Hòa;;huyen_ung_hoa;;2025-09-27 21:45:20;;false;;\N;1500
+1529;282;Huyện Mỹ Đức;;Huyện Mỹ Đức;;huyen_my_duc;;2025-09-27 21:45:20;;false;;\N;1500
+1530;24;Thành phố Hà Giang;;Thành phố Hà Giang;;thanh_pho_ha_giang;;2025-09-27 21:45:20;;false;;\N;1501
+1531;26;Huyện Đồng Văn;;Huyện Đồng Văn;;huyen_dong_van;;2025-09-27 21:45:20;;false;;\N;1501
+1532;27;Huyện Mèo Vạc;;Huyện Mèo Vạc;;huyen_meo_vac;;2025-09-27 21:45:20;;false;;\N;1501
+1533;28;Huyện Yên Minh;;Huyện Yên Minh;;huyen_yen_minh;;2025-09-27 21:45:20;;false;;\N;1501
+1534;29;Huyện Quản Bạ;;Huyện Quản Bạ;;huyen_quan_ba;;2025-09-27 21:45:20;;false;;\N;1501
+1535;30;Huyện Vị Xuyên;;Huyện Vị Xuyên;;huyen_vi_xuyen;;2025-09-27 21:45:20;;false;;\N;1501
+1536;31;Huyện Bắc Mê;;Huyện Bắc Mê;;huyen_bac_me;;2025-09-27 21:45:20;;false;;\N;1501
+1537;32;Huyện Hoàng Su Phì;;Huyện Hoàng Su Phì;;huyen_hoang_su_phi;;2025-09-27 21:45:20;;false;;\N;1501
+1538;33;Huyện Xín Mần;;Huyện Xín Mần;;huyen_xin_man;;2025-09-27 21:45:20;;false;;\N;1501
+1539;34;Huyện Bắc Quang;;Huyện Bắc Quang;;huyen_bac_quang;;2025-09-27 21:45:20;;false;;\N;1501
+1540;35;Huyện Quang Bình;;Huyện Quang Bình;;huyen_quang_binh;;2025-09-27 21:45:20;;false;;\N;1501
+1541;40;Thành phố Cao Bằng;;Thành phố Cao Bằng;;thanh_pho_cao_bang;;2025-09-27 21:45:20;;false;;\N;1502
+1542;42;Huyện Bảo Lâm;;Huyện Bảo Lâm;;huyen_bao_lam;;2025-09-27 21:45:20;;false;;\N;1502
+1543;43;Huyện Bảo Lạc;;Huyện Bảo Lạc;;huyen_bao_lac;;2025-09-27 21:45:20;;false;;\N;1502
+1544;45;Huyện Hà Quảng;;Huyện Hà Quảng;;huyen_ha_quang;;2025-09-27 21:45:20;;false;;\N;1502
+1545;47;Huyện Trùng Khánh;;Huyện Trùng Khánh;;huyen_trung_khanh;;2025-09-27 21:45:20;;false;;\N;1502
+1546;48;Huyện Hạ Lang;;Huyện Hạ Lang;;huyen_ha_lang;;2025-09-27 21:45:20;;false;;\N;1502
+1547;49;Huyện Quảng Hòa;;Huyện Quảng Hòa;;huyen_quang_hoa;;2025-09-27 21:45:20;;false;;\N;1502
+1548;51;Huyện Hoà An;;Huyện Hoà An;;huyen_hoa_an;;2025-09-27 21:45:20;;false;;\N;1502
+1549;52;Huyện Nguyên Bình;;Huyện Nguyên Bình;;huyen_nguyen_binh;;2025-09-27 21:45:20;;false;;\N;1502
+1550;53;Huyện Thạch An;;Huyện Thạch An;;huyen_thach_an;;2025-09-27 21:45:20;;false;;\N;1502
+1551;58;Thành Phố Bắc Kạn;;Thành Phố Bắc Kạn;;thanh_pho_bac_kan;;2025-09-27 21:45:20;;false;;\N;1503
+1552;60;Huyện Pác Nặm;;Huyện Pác Nặm;;huyen_pac_nam;;2025-09-27 21:45:20;;false;;\N;1503
+1553;61;Huyện Ba Bể;;Huyện Ba Bể;;huyen_ba_be;;2025-09-27 21:45:20;;false;;\N;1503
+1554;62;Huyện Ngân Sơn;;Huyện Ngân Sơn;;huyen_ngan_son;;2025-09-27 21:45:20;;false;;\N;1503
+1555;63;Huyện Bạch Thông;;Huyện Bạch Thông;;huyen_bach_thong;;2025-09-27 21:45:20;;false;;\N;1503
+1556;64;Huyện Chợ Đồn;;Huyện Chợ Đồn;;huyen_cho_don;;2025-09-27 21:45:20;;false;;\N;1503
+1557;65;Huyện Chợ Mới;;Huyện Chợ Mới;;huyen_cho_moi;;2025-09-27 21:45:20;;false;;\N;1503
+1558;66;Huyện Na Rì;;Huyện Na Rì;;huyen_na_ri;;2025-09-27 21:45:20;;false;;\N;1503
+1559;70;Thành phố Tuyên Quang;;Thành phố Tuyên Quang;;thanh_pho_tuyen_quang;;2025-09-27 21:45:20;;false;;\N;1504
+1560;71;Huyện Lâm Bình;;Huyện Lâm Bình;;huyen_lam_binh;;2025-09-27 21:45:20;;false;;\N;1504
+1561;72;Huyện Na Hang;;Huyện Na Hang;;huyen_na_hang;;2025-09-27 21:45:20;;false;;\N;1504
+1562;73;Huyện Chiêm Hóa;;Huyện Chiêm Hóa;;huyen_chiem_hoa;;2025-09-27 21:45:20;;false;;\N;1504
+1563;74;Huyện Hàm Yên;;Huyện Hàm Yên;;huyen_ham_yen;;2025-09-27 21:45:20;;false;;\N;1504
+1564;75;Huyện Yên Sơn;;Huyện Yên Sơn;;huyen_yen_son;;2025-09-27 21:45:20;;false;;\N;1504
+1565;76;Huyện Sơn Dương;;Huyện Sơn Dương;;huyen_son_duong;;2025-09-27 21:45:20;;false;;\N;1504
+1566;80;Thành phố Lào Cai;;Thành phố Lào Cai;;thanh_pho_lao_cai;;2025-09-27 21:45:20;;false;;\N;1505
+1567;82;Huyện Bát Xát;;Huyện Bát Xát;;huyen_bat_xat;;2025-09-27 21:45:20;;false;;\N;1505
+1568;83;Huyện Mường Khương;;Huyện Mường Khương;;huyen_muong_khuong;;2025-09-27 21:45:20;;false;;\N;1505
+1569;84;Huyện Si Ma Cai;;Huyện Si Ma Cai;;huyen_si_ma_cai;;2025-09-27 21:45:20;;false;;\N;1505
+1570;85;Huyện Bắc Hà;;Huyện Bắc Hà;;huyen_bac_ha;;2025-09-27 21:45:20;;false;;\N;1505
+1571;86;Huyện Bảo Thắng;;Huyện Bảo Thắng;;huyen_bao_thang;;2025-09-27 21:45:20;;false;;\N;1505
+1572;87;Huyện Bảo Yên;;Huyện Bảo Yên;;huyen_bao_yen;;2025-09-27 21:45:20;;false;;\N;1505
+1573;88;Thị xã Sa Pa;;Thị xã Sa Pa;;thi_xa_sa_pa;;2025-09-27 21:45:20;;false;;\N;1505
+1574;89;Huyện Văn Bàn;;Huyện Văn Bàn;;huyen_van_ban;;2025-09-27 21:45:20;;false;;\N;1505
+1575;94;Thành phố Điện Biên Phủ;;Thành phố Điện Biên Phủ;;thanh_pho_dien_bien_phu;;2025-09-27 21:45:20;;false;;\N;1506
+1576;95;Thị xã Mường Lay;;Thị xã Mường Lay;;thi_xa_muong_lay;;2025-09-27 21:45:20;;false;;\N;1506
+1577;96;Huyện Mường Nhé;;Huyện Mường Nhé;;huyen_muong_nhe;;2025-09-27 21:45:20;;false;;\N;1506
+1578;97;Huyện Mường Chà;;Huyện Mường Chà;;huyen_muong_cha;;2025-09-27 21:45:20;;false;;\N;1506
+1579;98;Huyện Tủa Chùa;;Huyện Tủa Chùa;;huyen_tua_chua;;2025-09-27 21:45:20;;false;;\N;1506
+1580;99;Huyện Tuần Giáo;;Huyện Tuần Giáo;;huyen_tuan_giao;;2025-09-27 21:45:20;;false;;\N;1506
+1581;100;Huyện Điện Biên;;Huyện Điện Biên;;huyen_dien_bien;;2025-09-27 21:45:20;;false;;\N;1506
+1582;101;Huyện Điện Biên Đông;;Huyện Điện Biên Đông;;huyen_dien_bien_dong;;2025-09-27 21:45:20;;false;;\N;1506
+1583;102;Huyện Mường Ảng;;Huyện Mường Ảng;;huyen_muong_ang;;2025-09-27 21:45:20;;false;;\N;1506
+1584;103;Huyện Nậm Pồ;;Huyện Nậm Pồ;;huyen_nam_po;;2025-09-27 21:45:20;;false;;\N;1506
+1585;105;Thành phố Lai Châu;;Thành phố Lai Châu;;thanh_pho_lai_chau;;2025-09-27 21:45:20;;false;;\N;1507
+1586;106;Huyện Tam Đường;;Huyện Tam Đường;;huyen_tam_duong;;2025-09-27 21:45:20;;false;;\N;1507
+1587;107;Huyện Mường Tè;;Huyện Mường Tè;;huyen_muong_te;;2025-09-27 21:45:20;;false;;\N;1507
+1588;108;Huyện Sìn Hồ;;Huyện Sìn Hồ;;huyen_sin_ho;;2025-09-27 21:45:20;;false;;\N;1507
+1589;109;Huyện Phong Thổ;;Huyện Phong Thổ;;huyen_phong_tho;;2025-09-27 21:45:20;;false;;\N;1507
+1590;110;Huyện Than Uyên;;Huyện Than Uyên;;huyen_than_uyen;;2025-09-27 21:45:20;;false;;\N;1507
+1591;111;Huyện Tân Uyên;;Huyện Tân Uyên;;huyen_tan_uyen;;2025-09-27 21:45:20;;false;;\N;1507
+1592;112;Huyện Nậm Nhùn;;Huyện Nậm Nhùn;;huyen_nam_nhun;;2025-09-27 21:45:20;;false;;\N;1507
+1593;116;Thành phố Sơn La;;Thành phố Sơn La;;thanh_pho_son_la;;2025-09-27 21:45:20;;false;;\N;1508
+1594;118;Huyện Quỳnh Nhai;;Huyện Quỳnh Nhai;;huyen_quynh_nhai;;2025-09-27 21:45:20;;false;;\N;1508
+1595;119;Huyện Thuận Châu;;Huyện Thuận Châu;;huyen_thuan_chau;;2025-09-27 21:45:20;;false;;\N;1508
+1596;120;Huyện Mường La;;Huyện Mường La;;huyen_muong_la;;2025-09-27 21:45:20;;false;;\N;1508
+1597;121;Huyện Bắc Yên;;Huyện Bắc Yên;;huyen_bac_yen;;2025-09-27 21:45:20;;false;;\N;1508
+1598;122;Huyện Phù Yên;;Huyện Phù Yên;;huyen_phu_yen;;2025-09-27 21:45:20;;false;;\N;1508
+1599;123;Huyện Mộc Châu;;Huyện Mộc Châu;;huyen_moc_chau;;2025-09-27 21:45:20;;false;;\N;1508
+1600;124;Huyện Yên Châu;;Huyện Yên Châu;;huyen_yen_chau;;2025-09-27 21:45:20;;false;;\N;1508
+1601;125;Huyện Mai Sơn;;Huyện Mai Sơn;;huyen_mai_son;;2025-09-27 21:45:20;;false;;\N;1508
+1602;126;Huyện Sông Mã;;Huyện Sông Mã;;huyen_song_ma;;2025-09-27 21:45:20;;false;;\N;1508
+1603;127;Huyện Sốp Cộp;;Huyện Sốp Cộp;;huyen_sop_cop;;2025-09-27 21:45:20;;false;;\N;1508
+1604;128;Huyện Vân Hồ;;Huyện Vân Hồ;;huyen_van_ho;;2025-09-27 21:45:20;;false;;\N;1508
+1605;132;Thành phố Yên Bái;;Thành phố Yên Bái;;thanh_pho_yen_bai;;2025-09-27 21:45:20;;false;;\N;1509
+1606;133;Thị xã Nghĩa Lộ;;Thị xã Nghĩa Lộ;;thi_xa_nghia_lo;;2025-09-27 21:45:20;;false;;\N;1509
+1607;135;Huyện Lục Yên;;Huyện Lục Yên;;huyen_luc_yen;;2025-09-27 21:45:20;;false;;\N;1509
+1608;136;Huyện Văn Yên;;Huyện Văn Yên;;huyen_van_yen;;2025-09-27 21:45:20;;false;;\N;1509
+1609;137;Huyện Mù Căng Chải;;Huyện Mù Căng Chải;;huyen_mu_cang_chai;;2025-09-27 21:45:20;;false;;\N;1509
+1610;138;Huyện Trấn Yên;;Huyện Trấn Yên;;huyen_tran_yen;;2025-09-27 21:45:20;;false;;\N;1509
+1611;139;Huyện Trạm Tấu;;Huyện Trạm Tấu;;huyen_tram_tau;;2025-09-27 21:45:20;;false;;\N;1509
+1612;140;Huyện Văn Chấn;;Huyện Văn Chấn;;huyen_van_chan;;2025-09-27 21:45:20;;false;;\N;1509
+1613;141;Huyện Yên Bình;;Huyện Yên Bình;;huyen_yen_binh;;2025-09-27 21:45:20;;false;;\N;1509
+1614;148;Thành phố Hòa Bình;;Thành phố Hòa Bình;;thanh_pho_hoa_binh;;2025-09-27 21:45:20;;false;;\N;1510
+1615;150;Huyện Đà Bắc;;Huyện Đà Bắc;;huyen_da_bac;;2025-09-27 21:45:20;;false;;\N;1510
+1616;152;Huyện Lương Sơn;;Huyện Lương Sơn;;huyen_luong_son;;2025-09-27 21:45:20;;false;;\N;1510
+1617;153;Huyện Kim Bôi;;Huyện Kim Bôi;;huyen_kim_boi;;2025-09-27 21:45:20;;false;;\N;1510
+1618;154;Huyện Cao Phong;;Huyện Cao Phong;;huyen_cao_phong;;2025-09-27 21:45:20;;false;;\N;1510
+1619;155;Huyện Tân Lạc;;Huyện Tân Lạc;;huyen_tan_lac;;2025-09-27 21:45:20;;false;;\N;1510
+1620;156;Huyện Mai Châu;;Huyện Mai Châu;;huyen_mai_chau;;2025-09-27 21:45:20;;false;;\N;1510
+1621;157;Huyện Lạc Sơn;;Huyện Lạc Sơn;;huyen_lac_son;;2025-09-27 21:45:20;;false;;\N;1510
+1622;158;Huyện Yên Thủy;;Huyện Yên Thủy;;huyen_yen_thuy;;2025-09-27 21:45:20;;false;;\N;1510
+1623;159;Huyện Lạc Thủy;;Huyện Lạc Thủy;;huyen_lac_thuy;;2025-09-27 21:45:20;;false;;\N;1510
+1624;164;Thành phố Thái Nguyên;;Thành phố Thái Nguyên;;thanh_pho_thai_nguyen;;2025-09-27 21:45:20;;false;;\N;1511
+1625;165;Thành phố Sông Công;;Thành phố Sông Công;;thanh_pho_song_cong;;2025-09-27 21:45:20;;false;;\N;1511
+1626;167;Huyện Định Hóa;;Huyện Định Hóa;;huyen_dinh_hoa;;2025-09-27 21:45:20;;false;;\N;1511
+1627;168;Huyện Phú Lương;;Huyện Phú Lương;;huyen_phu_luong;;2025-09-27 21:45:20;;false;;\N;1511
+1628;169;Huyện Đồng Hỷ;;Huyện Đồng Hỷ;;huyen_dong_hy;;2025-09-27 21:45:20;;false;;\N;1511
+1629;170;Huyện Võ Nhai;;Huyện Võ Nhai;;huyen_vo_nhai;;2025-09-27 21:45:20;;false;;\N;1511
+1630;171;Huyện Đại Từ;;Huyện Đại Từ;;huyen_dai_tu;;2025-09-27 21:45:20;;false;;\N;1511
+1631;172;Thành phố Phổ Yên;;Thành phố Phổ Yên;;thanh_pho_pho_yen;;2025-09-27 21:45:20;;false;;\N;1511
+1632;173;Huyện Phú Bình;;Huyện Phú Bình;;huyen_phu_binh;;2025-09-27 21:45:20;;false;;\N;1511
+1633;178;Thành phố Lạng Sơn;;Thành phố Lạng Sơn;;thanh_pho_lang_son;;2025-09-27 21:45:20;;false;;\N;1512
+1634;180;Huyện Tràng Định;;Huyện Tràng Định;;huyen_trang_dinh;;2025-09-27 21:45:20;;false;;\N;1512
+1635;181;Huyện Bình Gia;;Huyện Bình Gia;;huyen_binh_gia;;2025-09-27 21:45:20;;false;;\N;1512
+1636;182;Huyện Văn Lãng;;Huyện Văn Lãng;;huyen_van_lang;;2025-09-27 21:45:20;;false;;\N;1512
+1637;183;Huyện Cao Lộc;;Huyện Cao Lộc;;huyen_cao_loc;;2025-09-27 21:45:20;;false;;\N;1512
+1638;184;Huyện Văn Quan;;Huyện Văn Quan;;huyen_van_quan;;2025-09-27 21:45:20;;false;;\N;1512
+1639;185;Huyện Bắc Sơn;;Huyện Bắc Sơn;;huyen_bac_son;;2025-09-27 21:45:20;;false;;\N;1512
+1640;186;Huyện Hữu Lũng;;Huyện Hữu Lũng;;huyen_huu_lung;;2025-09-27 21:45:20;;false;;\N;1512
+1641;187;Huyện Chi Lăng;;Huyện Chi Lăng;;huyen_chi_lang;;2025-09-27 21:45:20;;false;;\N;1512
+1642;188;Huyện Lộc Bình;;Huyện Lộc Bình;;huyen_loc_binh;;2025-09-27 21:45:20;;false;;\N;1512
+1643;189;Huyện Đình Lập;;Huyện Đình Lập;;huyen_dinh_lap;;2025-09-27 21:45:20;;false;;\N;1512
+1644;193;Thành phố Hạ Long;;Thành phố Hạ Long;;thanh_pho_ha_long;;2025-09-27 21:45:20;;false;;\N;1513
+1645;194;Thành phố Móng Cái;;Thành phố Móng Cái;;thanh_pho_mong_cai;;2025-09-27 21:45:20;;false;;\N;1513
+1646;195;Thành phố Cẩm Phả;;Thành phố Cẩm Phả;;thanh_pho_cam_pha;;2025-09-27 21:45:20;;false;;\N;1513
+1647;196;Thành phố Uông Bí;;Thành phố Uông Bí;;thanh_pho_uong_bi;;2025-09-27 21:45:20;;false;;\N;1513
+1648;198;Huyện Bình Liêu;;Huyện Bình Liêu;;huyen_binh_lieu;;2025-09-27 21:45:20;;false;;\N;1513
+1649;199;Huyện Tiên Yên;;Huyện Tiên Yên;;huyen_tien_yen;;2025-09-27 21:45:20;;false;;\N;1513
+1650;200;Huyện Đầm Hà;;Huyện Đầm Hà;;huyen_dam_ha;;2025-09-27 21:45:20;;false;;\N;1513
+1651;201;Huyện Hải Hà;;Huyện Hải Hà;;huyen_hai_ha;;2025-09-27 21:45:20;;false;;\N;1513
+1652;202;Huyện Ba Chẽ;;Huyện Ba Chẽ;;huyen_ba_che;;2025-09-27 21:45:20;;false;;\N;1513
+1653;203;Huyện Vân Đồn;;Huyện Vân Đồn;;huyen_van_don;;2025-09-27 21:45:20;;false;;\N;1513
+1654;205;Thành phố Đông Triều;;Thành phố Đông Triều;;thanh_pho_dong_trieu;;2025-09-27 21:45:20;;false;;\N;1513
+1655;206;Thị xã Quảng Yên;;Thị xã Quảng Yên;;thi_xa_quang_yen;;2025-09-27 21:45:20;;false;;\N;1513
+1656;207;Huyện Cô Tô;;Huyện Cô Tô;;huyen_co_to;;2025-09-27 21:45:20;;false;;\N;1513
+1657;213;Thành phố Bắc Giang;;Thành phố Bắc Giang;;thanh_pho_bac_giang;;2025-09-27 21:45:20;;false;;\N;1514
+1658;215;Huyện Yên Thế;;Huyện Yên Thế;;huyen_yen_the;;2025-09-27 21:45:20;;false;;\N;1514
+1659;216;Huyện Tân Yên;;Huyện Tân Yên;;huyen_tan_yen;;2025-09-27 21:45:20;;false;;\N;1514
+1660;217;Huyện Lạng Giang;;Huyện Lạng Giang;;huyen_lang_giang;;2025-09-27 21:45:20;;false;;\N;1514
+1661;218;Huyện Lục Nam;;Huyện Lục Nam;;huyen_luc_nam;;2025-09-27 21:45:20;;false;;\N;1514
+1662;219;Huyện Lục Ngạn;;Huyện Lục Ngạn;;huyen_luc_ngan;;2025-09-27 21:45:20;;false;;\N;1514
+1663;220;Huyện Sơn Động;;Huyện Sơn Động;;huyen_son_dong;;2025-09-27 21:45:20;;false;;\N;1514
+1664;222;Thị xã Việt Yên;;Thị xã Việt Yên;;thi_xa_viet_yen;;2025-09-27 21:45:20;;false;;\N;1514
+1665;223;Huyện Hiệp Hòa;;Huyện Hiệp Hòa;;huyen_hiep_hoa;;2025-09-27 21:45:20;;false;;\N;1514
+1666;224;Thị xã Chũ;;Thị xã Chũ;;thi_xa_chu;;2025-09-27 21:45:20;;false;;\N;1514
+1667;227;Thành phố Việt Trì;;Thành phố Việt Trì;;thanh_pho_viet_tri;;2025-09-27 21:45:20;;false;;\N;1515
+1668;228;Thị xã Phú Thọ;;Thị xã Phú Thọ;;thi_xa_phu_tho;;2025-09-27 21:45:20;;false;;\N;1515
+1669;230;Huyện Đoan Hùng;;Huyện Đoan Hùng;;huyen_doan_hung;;2025-09-27 21:45:20;;false;;\N;1515
+1670;231;Huyện Hạ Hoà;;Huyện Hạ Hoà;;huyen_ha_hoa;;2025-09-27 21:45:20;;false;;\N;1515
+1671;232;Huyện Thanh Ba;;Huyện Thanh Ba;;huyen_thanh_ba;;2025-09-27 21:45:20;;false;;\N;1515
+1672;233;Huyện Phù Ninh;;Huyện Phù Ninh;;huyen_phu_ninh;;2025-09-27 21:45:20;;false;;\N;1515
+1673;234;Huyện Yên Lập;;Huyện Yên Lập;;huyen_yen_lap;;2025-09-27 21:45:20;;false;;\N;1515
+1674;235;Huyện Cẩm Khê;;Huyện Cẩm Khê;;huyen_cam_khe;;2025-09-27 21:45:20;;false;;\N;1515
+1675;236;Huyện Tam Nông;;Huyện Tam Nông;;huyen_tam_nong;;2025-09-27 21:45:20;;false;;\N;1515
+1676;237;Huyện Lâm Thao;;Huyện Lâm Thao;;huyen_lam_thao;;2025-09-27 21:45:20;;false;;\N;1515
+1677;238;Huyện Thanh Sơn;;Huyện Thanh Sơn;;huyen_thanh_son;;2025-09-27 21:45:20;;false;;\N;1515
+1678;239;Huyện Thanh Thuỷ;;Huyện Thanh Thuỷ;;huyen_thanh_thuy;;2025-09-27 21:45:20;;false;;\N;1515
+1679;240;Huyện Tân Sơn;;Huyện Tân Sơn;;huyen_tan_son;;2025-09-27 21:45:20;;false;;\N;1515
+1680;243;Thành phố Vĩnh Yên;;Thành phố Vĩnh Yên;;thanh_pho_vinh_yen;;2025-09-27 21:45:20;;false;;\N;1516
+1681;244;Thành phố Phúc Yên;;Thành phố Phúc Yên;;thanh_pho_phuc_yen;;2025-09-27 21:45:20;;false;;\N;1516
+1682;246;Huyện Lập Thạch;;Huyện Lập Thạch;;huyen_lap_thach;;2025-09-27 21:45:20;;false;;\N;1516
+1683;247;Huyện Tam Dương;;Huyện Tam Dương;;huyen_tam_duong;;2025-09-27 21:45:20;;false;;\N;1516
+1684;248;Huyện Tam Đảo;;Huyện Tam Đảo;;huyen_tam_dao;;2025-09-27 21:45:20;;false;;\N;1516
+1685;249;Huyện Bình Xuyên;;Huyện Bình Xuyên;;huyen_binh_xuyen;;2025-09-27 21:45:20;;false;;\N;1516
+1686;251;Huyện Yên Lạc;;Huyện Yên Lạc;;huyen_yen_lac;;2025-09-27 21:45:20;;false;;\N;1516
+1687;252;Huyện Vĩnh Tường;;Huyện Vĩnh Tường;;huyen_vinh_tuong;;2025-09-27 21:45:20;;false;;\N;1516
+1688;253;Huyện Sông Lô;;Huyện Sông Lô;;huyen_song_lo;;2025-09-27 21:45:20;;false;;\N;1516
+1689;256;Thành phố Bắc Ninh;;Thành phố Bắc Ninh;;thanh_pho_bac_ninh;;2025-09-27 21:45:20;;false;;\N;1517
+1690;258;Huyện Yên Phong;;Huyện Yên Phong;;huyen_yen_phong;;2025-09-27 21:45:20;;false;;\N;1517
+1691;259;Thị xã Quế Võ;;Thị xã Quế Võ;;thi_xa_que_vo;;2025-09-27 21:45:20;;false;;\N;1517
+1692;260;Huyện Tiên Du;;Huyện Tiên Du;;huyen_tien_du;;2025-09-27 21:45:20;;false;;\N;1517
+1693;261;Thành phố Từ Sơn;;Thành phố Từ Sơn;;thanh_pho_tu_son;;2025-09-27 21:45:20;;false;;\N;1517
+1694;262;Thị xã Thuận Thành;;Thị xã Thuận Thành;;thi_xa_thuan_thanh;;2025-09-27 21:45:20;;false;;\N;1517
+1695;263;Huyện Gia Bình;;Huyện Gia Bình;;huyen_gia_binh;;2025-09-27 21:45:20;;false;;\N;1517
+1696;264;Huyện Lương Tài;;Huyện Lương Tài;;huyen_luong_tai;;2025-09-27 21:45:20;;false;;\N;1517
+1697;288;Thành phố Hải Dương;;Thành phố Hải Dương;;thanh_pho_hai_duong;;2025-09-27 21:45:20;;false;;\N;1518
+1698;290;Thành phố Chí Linh;;Thành phố Chí Linh;;thanh_pho_chi_linh;;2025-09-27 21:45:20;;false;;\N;1518
+1699;291;Huyện Nam Sách;;Huyện Nam Sách;;huyen_nam_sach;;2025-09-27 21:45:20;;false;;\N;1518
+1700;292;Thị xã Kinh Môn;;Thị xã Kinh Môn;;thi_xa_kinh_mon;;2025-09-27 21:45:20;;false;;\N;1518
+1701;293;Huyện Kim Thành;;Huyện Kim Thành;;huyen_kim_thanh;;2025-09-27 21:45:20;;false;;\N;1518
+1702;294;Huyện Thanh Hà;;Huyện Thanh Hà;;huyen_thanh_ha;;2025-09-27 21:45:20;;false;;\N;1518
+1703;295;Huyện Cẩm Giàng;;Huyện Cẩm Giàng;;huyen_cam_giang;;2025-09-27 21:45:20;;false;;\N;1518
+1704;296;Huyện Bình Giang;;Huyện Bình Giang;;huyen_binh_giang;;2025-09-27 21:45:20;;false;;\N;1518
+1705;297;Huyện Gia Lộc;;Huyện Gia Lộc;;huyen_gia_loc;;2025-09-27 21:45:20;;false;;\N;1518
+1706;298;Huyện Tứ Kỳ;;Huyện Tứ Kỳ;;huyen_tu_ky;;2025-09-27 21:45:20;;false;;\N;1518
+1707;299;Huyện Ninh Giang;;Huyện Ninh Giang;;huyen_ninh_giang;;2025-09-27 21:45:20;;false;;\N;1518
+1708;300;Huyện Thanh Miện;;Huyện Thanh Miện;;huyen_thanh_mien;;2025-09-27 21:45:20;;false;;\N;1518
+1709;303;Quận Hồng Bàng;;Quận Hồng Bàng;;quan_hong_bang;;2025-09-27 21:45:20;;false;;\N;1519
+1710;304;Quận Ngô Quyền;;Quận Ngô Quyền;;quan_ngo_quyen;;2025-09-27 21:45:20;;false;;\N;1519
+1711;305;Quận Lê Chân;;Quận Lê Chân;;quan_le_chan;;2025-09-27 21:45:20;;false;;\N;1519
+1712;306;Quận Hải An;;Quận Hải An;;quan_hai_an;;2025-09-27 21:45:20;;false;;\N;1519
+1713;307;Quận Kiến An;;Quận Kiến An;;quan_kien_an;;2025-09-27 21:45:20;;false;;\N;1519
+1714;308;Quận Đồ Sơn;;Quận Đồ Sơn;;quan_do_son;;2025-09-27 21:45:20;;false;;\N;1519
+1715;309;Quận Dương Kinh;;Quận Dương Kinh;;quan_duong_kinh;;2025-09-27 21:45:20;;false;;\N;1519
+1716;311;Thành phố Thuỷ Nguyên;;Thành phố Thuỷ Nguyên;;thanh_pho_thuy_nguyen;;2025-09-27 21:45:20;;false;;\N;1519
+1717;312;Quận An Dương;;Quận An Dương;;quan_an_duong;;2025-09-27 21:45:20;;false;;\N;1519
+1718;313;Huyện An Lão;;Huyện An Lão;;huyen_an_lao;;2025-09-27 21:45:20;;false;;\N;1519
+1719;314;Huyện Kiến Thuỵ;;Huyện Kiến Thuỵ;;huyen_kien_thuy;;2025-09-27 21:45:20;;false;;\N;1519
+1720;315;Huyện Tiên Lãng;;Huyện Tiên Lãng;;huyen_tien_lang;;2025-09-27 21:45:20;;false;;\N;1519
+1721;316;Huyện Vĩnh Bảo;;Huyện Vĩnh Bảo;;huyen_vinh_bao;;2025-09-27 21:45:20;;false;;\N;1519
+1722;317;Huyện Cát Hải;;Huyện Cát Hải;;huyen_cat_hai;;2025-09-27 21:45:20;;false;;\N;1519
+1723;318;Huyện Bạch Long Vĩ;;Huyện Bạch Long Vĩ;;huyen_bach_long_vi;;2025-09-27 21:45:20;;false;;\N;1519
+1724;323;Thành phố Hưng Yên;;Thành phố Hưng Yên;;thanh_pho_hung_yen;;2025-09-27 21:45:20;;false;;\N;1520
+1725;325;Huyện Văn Lâm;;Huyện Văn Lâm;;huyen_van_lam;;2025-09-27 21:45:20;;false;;\N;1520
+1726;326;Huyện Văn Giang;;Huyện Văn Giang;;huyen_van_giang;;2025-09-27 21:45:20;;false;;\N;1520
+1727;327;Huyện Yên Mỹ;;Huyện Yên Mỹ;;huyen_yen_my;;2025-09-27 21:45:20;;false;;\N;1520
+1728;328;Thị xã Mỹ Hào;;Thị xã Mỹ Hào;;thi_xa_my_hao;;2025-09-27 21:45:20;;false;;\N;1520
+1729;329;Huyện Ân Thi;;Huyện Ân Thi;;huyen_an_thi;;2025-09-27 21:45:20;;false;;\N;1520
+1730;330;Huyện Khoái Châu;;Huyện Khoái Châu;;huyen_khoai_chau;;2025-09-27 21:45:20;;false;;\N;1520
+1731;331;Huyện Kim Động;;Huyện Kim Động;;huyen_kim_dong;;2025-09-27 21:45:20;;false;;\N;1520
+1732;332;Huyện Tiên Lữ;;Huyện Tiên Lữ;;huyen_tien_lu;;2025-09-27 21:45:20;;false;;\N;1520
+1733;333;Huyện Phù Cừ;;Huyện Phù Cừ;;huyen_phu_cu;;2025-09-27 21:45:20;;false;;\N;1520
+1734;336;Thành phố Thái Bình;;Thành phố Thái Bình;;thanh_pho_thai_binh;;2025-09-27 21:45:20;;false;;\N;1521
+1735;338;Huyện Quỳnh Phụ;;Huyện Quỳnh Phụ;;huyen_quynh_phu;;2025-09-27 21:45:20;;false;;\N;1521
+1736;339;Huyện Hưng Hà;;Huyện Hưng Hà;;huyen_hung_ha;;2025-09-27 21:45:20;;false;;\N;1521
+1737;340;Huyện Đông Hưng;;Huyện Đông Hưng;;huyen_dong_hung;;2025-09-27 21:45:20;;false;;\N;1521
+1738;341;Huyện Thái Thụy;;Huyện Thái Thụy;;huyen_thai_thuy;;2025-09-27 21:45:20;;false;;\N;1521
+1739;342;Huyện Tiền Hải;;Huyện Tiền Hải;;huyen_tien_hai;;2025-09-27 21:45:20;;false;;\N;1521
+1740;343;Huyện Kiến Xương;;Huyện Kiến Xương;;huyen_kien_xuong;;2025-09-27 21:45:20;;false;;\N;1521
+1741;344;Huyện Vũ Thư;;Huyện Vũ Thư;;huyen_vu_thu;;2025-09-27 21:45:20;;false;;\N;1521
+1742;347;Thành phố Phủ Lý;;Thành phố Phủ Lý;;thanh_pho_phu_ly;;2025-09-27 21:45:20;;false;;\N;1522
+1743;349;Thị xã Duy Tiên;;Thị xã Duy Tiên;;thi_xa_duy_tien;;2025-09-27 21:45:20;;false;;\N;1522
+1744;350;Thị xã Kim Bảng;;Thị xã Kim Bảng;;thi_xa_kim_bang;;2025-09-27 21:45:20;;false;;\N;1522
+1745;351;Huyện Thanh Liêm;;Huyện Thanh Liêm;;huyen_thanh_liem;;2025-09-27 21:45:20;;false;;\N;1522
+1746;352;Huyện Bình Lục;;Huyện Bình Lục;;huyen_binh_luc;;2025-09-27 21:45:20;;false;;\N;1522
+1747;353;Huyện Lý Nhân;;Huyện Lý Nhân;;huyen_ly_nhan;;2025-09-27 21:45:20;;false;;\N;1522
+1748;356;Thành phố Nam Định;;Thành phố Nam Định;;thanh_pho_nam_dinh;;2025-09-27 21:45:20;;false;;\N;1523
+1749;359;Huyện Vụ Bản;;Huyện Vụ Bản;;huyen_vu_ban;;2025-09-27 21:45:20;;false;;\N;1523
+1750;360;Huyện Ý Yên;;Huyện Ý Yên;;huyen_y_yen;;2025-09-27 21:45:20;;false;;\N;1523
+1751;361;Huyện Nghĩa Hưng;;Huyện Nghĩa Hưng;;huyen_nghia_hung;;2025-09-27 21:45:20;;false;;\N;1523
+1752;362;Huyện Nam Trực;;Huyện Nam Trực;;huyen_nam_truc;;2025-09-27 21:45:20;;false;;\N;1523
+1753;363;Huyện Trực Ninh;;Huyện Trực Ninh;;huyen_truc_ninh;;2025-09-27 21:45:20;;false;;\N;1523
+1754;364;Huyện Xuân Trường;;Huyện Xuân Trường;;huyen_xuan_truong;;2025-09-27 21:45:20;;false;;\N;1523
+1755;365;Huyện Giao Thủy;;Huyện Giao Thủy;;huyen_giao_thuy;;2025-09-27 21:45:20;;false;;\N;1523
+1756;366;Huyện Hải Hậu;;Huyện Hải Hậu;;huyen_hai_hau;;2025-09-27 21:45:20;;false;;\N;1523
+1757;370;Thành phố Tam Điệp;;Thành phố Tam Điệp;;thanh_pho_tam_diep;;2025-09-27 21:45:20;;false;;\N;1524
+1758;372;Huyện Nho Quan;;Huyện Nho Quan;;huyen_nho_quan;;2025-09-27 21:45:20;;false;;\N;1524
+1759;373;Huyện Gia Viễn;;Huyện Gia Viễn;;huyen_gia_vien;;2025-09-27 21:45:20;;false;;\N;1524
+1760;374;Thành phố Hoa Lư;;Thành phố Hoa Lư;;thanh_pho_hoa_lu;;2025-09-27 21:45:20;;false;;\N;1524
+1761;375;Huyện Yên Khánh;;Huyện Yên Khánh;;huyen_yen_khanh;;2025-09-27 21:45:20;;false;;\N;1524
+1762;376;Huyện Kim Sơn;;Huyện Kim Sơn;;huyen_kim_son;;2025-09-27 21:45:20;;false;;\N;1524
+1763;377;Huyện Yên Mô;;Huyện Yên Mô;;huyen_yen_mo;;2025-09-27 21:45:20;;false;;\N;1524
+1764;380;Thành phố Thanh Hóa;;Thành phố Thanh Hóa;;thanh_pho_thanh_hoa;;2025-09-27 21:45:20;;false;;\N;1525
+1765;381;Thị xã Bỉm Sơn;;Thị xã Bỉm Sơn;;thi_xa_bim_son;;2025-09-27 21:45:20;;false;;\N;1525
+1766;382;Thành phố Sầm Sơn;;Thành phố Sầm Sơn;;thanh_pho_sam_son;;2025-09-27 21:45:20;;false;;\N;1525
+1767;384;Huyện Mường Lát;;Huyện Mường Lát;;huyen_muong_lat;;2025-09-27 21:45:20;;false;;\N;1525
+1768;385;Huyện Quan Hóa;;Huyện Quan Hóa;;huyen_quan_hoa;;2025-09-27 21:45:20;;false;;\N;1525
+1769;386;Huyện Bá Thước;;Huyện Bá Thước;;huyen_ba_thuoc;;2025-09-27 21:45:20;;false;;\N;1525
+1770;387;Huyện Quan Sơn;;Huyện Quan Sơn;;huyen_quan_son;;2025-09-27 21:45:20;;false;;\N;1525
+1771;388;Huyện Lang Chánh;;Huyện Lang Chánh;;huyen_lang_chanh;;2025-09-27 21:45:20;;false;;\N;1525
+1772;389;Huyện Ngọc Lặc;;Huyện Ngọc Lặc;;huyen_ngoc_lac;;2025-09-27 21:45:20;;false;;\N;1525
+1773;390;Huyện Cẩm Thủy;;Huyện Cẩm Thủy;;huyen_cam_thuy;;2025-09-27 21:45:20;;false;;\N;1525
+1774;391;Huyện Thạch Thành;;Huyện Thạch Thành;;huyen_thach_thanh;;2025-09-27 21:45:20;;false;;\N;1525
+1775;392;Huyện Hà Trung;;Huyện Hà Trung;;huyen_ha_trung;;2025-09-27 21:45:20;;false;;\N;1525
+1776;393;Huyện Vĩnh Lộc;;Huyện Vĩnh Lộc;;huyen_vinh_loc;;2025-09-27 21:45:20;;false;;\N;1525
+1777;394;Huyện Yên Định;;Huyện Yên Định;;huyen_yen_dinh;;2025-09-27 21:45:20;;false;;\N;1525
+1778;395;Huyện Thọ Xuân;;Huyện Thọ Xuân;;huyen_tho_xuan;;2025-09-27 21:45:20;;false;;\N;1525
+1779;396;Huyện Thường Xuân;;Huyện Thường Xuân;;huyen_thuong_xuan;;2025-09-27 21:45:20;;false;;\N;1525
+1780;397;Huyện Triệu Sơn;;Huyện Triệu Sơn;;huyen_trieu_son;;2025-09-27 21:45:20;;false;;\N;1525
+1781;398;Huyện Thiệu Hóa;;Huyện Thiệu Hóa;;huyen_thieu_hoa;;2025-09-27 21:45:20;;false;;\N;1525
+1782;399;Huyện Hoằng Hóa;;Huyện Hoằng Hóa;;huyen_hoang_hoa;;2025-09-27 21:45:20;;false;;\N;1525
+1783;400;Huyện Hậu Lộc;;Huyện Hậu Lộc;;huyen_hau_loc;;2025-09-27 21:45:20;;false;;\N;1525
+1784;401;Huyện Nga Sơn;;Huyện Nga Sơn;;huyen_nga_son;;2025-09-27 21:45:20;;false;;\N;1525
+1785;402;Huyện Như Xuân;;Huyện Như Xuân;;huyen_nhu_xuan;;2025-09-27 21:45:20;;false;;\N;1525
+1786;403;Huyện Như Thanh;;Huyện Như Thanh;;huyen_nhu_thanh;;2025-09-27 21:45:20;;false;;\N;1525
+1787;404;Huyện Nông Cống;;Huyện Nông Cống;;huyen_nong_cong;;2025-09-27 21:45:20;;false;;\N;1525
+1788;406;Huyện Quảng Xương;;Huyện Quảng Xương;;huyen_quang_xuong;;2025-09-27 21:45:20;;false;;\N;1525
+1789;407;Thị xã Nghi Sơn;;Thị xã Nghi Sơn;;thi_xa_nghi_son;;2025-09-27 21:45:20;;false;;\N;1525
+1790;412;Thành phố Vinh;;Thành phố Vinh;;thanh_pho_vinh;;2025-09-27 21:45:20;;false;;\N;1526
+1791;414;Thị xã Thái Hoà;;Thị xã Thái Hoà;;thi_xa_thai_hoa;;2025-09-27 21:45:20;;false;;\N;1526
+1792;415;Huyện Quế Phong;;Huyện Quế Phong;;huyen_que_phong;;2025-09-27 21:45:20;;false;;\N;1526
+1793;416;Huyện Quỳ Châu;;Huyện Quỳ Châu;;huyen_quy_chau;;2025-09-27 21:45:20;;false;;\N;1526
+1794;417;Huyện Kỳ Sơn;;Huyện Kỳ Sơn;;huyen_ky_son;;2025-09-27 21:45:20;;false;;\N;1526
+1795;418;Huyện Tương Dương;;Huyện Tương Dương;;huyen_tuong_duong;;2025-09-27 21:45:20;;false;;\N;1526
+1796;419;Huyện Nghĩa Đàn;;Huyện Nghĩa Đàn;;huyen_nghia_dan;;2025-09-27 21:45:20;;false;;\N;1526
+1797;420;Huyện Quỳ Hợp;;Huyện Quỳ Hợp;;huyen_quy_hop;;2025-09-27 21:45:20;;false;;\N;1526
+1798;421;Huyện Quỳnh Lưu;;Huyện Quỳnh Lưu;;huyen_quynh_luu;;2025-09-27 21:45:20;;false;;\N;1526
+1799;422;Huyện Con Cuông;;Huyện Con Cuông;;huyen_con_cuong;;2025-09-27 21:45:20;;false;;\N;1526
+1800;423;Huyện Tân Kỳ;;Huyện Tân Kỳ;;huyen_tan_ky;;2025-09-27 21:45:20;;false;;\N;1526
+1801;424;Huyện Anh Sơn;;Huyện Anh Sơn;;huyen_anh_son;;2025-09-27 21:45:20;;false;;\N;1526
+1802;425;Huyện Diễn Châu;;Huyện Diễn Châu;;huyen_dien_chau;;2025-09-27 21:45:20;;false;;\N;1526
+1803;426;Huyện Yên Thành;;Huyện Yên Thành;;huyen_yen_thanh;;2025-09-27 21:45:20;;false;;\N;1526
+1804;427;Huyện Đô Lương;;Huyện Đô Lương;;huyen_do_luong;;2025-09-27 21:45:20;;false;;\N;1526
+1805;428;Huyện Thanh Chương;;Huyện Thanh Chương;;huyen_thanh_chuong;;2025-09-27 21:45:20;;false;;\N;1526
+1806;429;Huyện Nghi Lộc;;Huyện Nghi Lộc;;huyen_nghi_loc;;2025-09-27 21:45:20;;false;;\N;1526
+1807;430;Huyện Nam Đàn;;Huyện Nam Đàn;;huyen_nam_dan;;2025-09-27 21:45:20;;false;;\N;1526
+1808;431;Huyện Hưng Nguyên;;Huyện Hưng Nguyên;;huyen_hung_nguyen;;2025-09-27 21:45:20;;false;;\N;1526
+1809;432;Thị xã Hoàng Mai;;Thị xã Hoàng Mai;;thi_xa_hoang_mai;;2025-09-27 21:45:20;;false;;\N;1526
+1810;436;Thành phố Hà Tĩnh;;Thành phố Hà Tĩnh;;thanh_pho_ha_tinh;;2025-09-27 21:45:20;;false;;\N;1527
+1811;437;Thị xã Hồng Lĩnh;;Thị xã Hồng Lĩnh;;thi_xa_hong_linh;;2025-09-27 21:45:20;;false;;\N;1527
+1812;439;Huyện Hương Sơn;;Huyện Hương Sơn;;huyen_huong_son;;2025-09-27 21:45:20;;false;;\N;1527
+1813;440;Huyện Đức Thọ;;Huyện Đức Thọ;;huyen_duc_tho;;2025-09-27 21:45:20;;false;;\N;1527
+1814;441;Huyện Vũ Quang;;Huyện Vũ Quang;;huyen_vu_quang;;2025-09-27 21:45:20;;false;;\N;1527
+1815;442;Huyện Nghi Xuân;;Huyện Nghi Xuân;;huyen_nghi_xuan;;2025-09-27 21:45:20;;false;;\N;1527
+1816;443;Huyện Can Lộc;;Huyện Can Lộc;;huyen_can_loc;;2025-09-27 21:45:20;;false;;\N;1527
+1817;444;Huyện Hương Khê;;Huyện Hương Khê;;huyen_huong_khe;;2025-09-27 21:45:20;;false;;\N;1527
+1818;445;Huyện Thạch Hà;;Huyện Thạch Hà;;huyen_thach_ha;;2025-09-27 21:45:20;;false;;\N;1527
+1819;446;Huyện Cẩm Xuyên;;Huyện Cẩm Xuyên;;huyen_cam_xuyen;;2025-09-27 21:45:20;;false;;\N;1527
+1820;447;Huyện Kỳ Anh;;Huyện Kỳ Anh;;huyen_ky_anh;;2025-09-27 21:45:20;;false;;\N;1527
+1821;449;Thị xã Kỳ Anh;;Thị xã Kỳ Anh;;thi_xa_ky_anh;;2025-09-27 21:45:20;;false;;\N;1527
+1822;450;Thành Phố Đồng Hới;;Thành Phố Đồng Hới;;thanh_pho_dong_hoi;;2025-09-27 21:45:20;;false;;\N;1528
+1823;452;Huyện Minh Hóa;;Huyện Minh Hóa;;huyen_minh_hoa;;2025-09-27 21:45:20;;false;;\N;1528
+1824;453;Huyện Tuyên Hóa;;Huyện Tuyên Hóa;;huyen_tuyen_hoa;;2025-09-27 21:45:20;;false;;\N;1528
+1825;454;Huyện Quảng Trạch;;Huyện Quảng Trạch;;huyen_quang_trach;;2025-09-27 21:45:20;;false;;\N;1528
+1826;455;Huyện Bố Trạch;;Huyện Bố Trạch;;huyen_bo_trach;;2025-09-27 21:45:20;;false;;\N;1528
+1827;456;Huyện Quảng Ninh;;Huyện Quảng Ninh;;huyen_quang_ninh;;2025-09-27 21:45:20;;false;;\N;1528
+1828;457;Huyện Lệ Thủy;;Huyện Lệ Thủy;;huyen_le_thuy;;2025-09-27 21:45:20;;false;;\N;1528
+1829;458;Thị xã Ba Đồn;;Thị xã Ba Đồn;;thi_xa_ba_don;;2025-09-27 21:45:20;;false;;\N;1528
+1830;461;Thành phố Đông Hà;;Thành phố Đông Hà;;thanh_pho_dong_ha;;2025-09-27 21:45:20;;false;;\N;1529
+1831;462;Thị xã Quảng Trị;;Thị xã Quảng Trị;;thi_xa_quang_tri;;2025-09-27 21:45:20;;false;;\N;1529
+1832;464;Huyện Vĩnh Linh;;Huyện Vĩnh Linh;;huyen_vinh_linh;;2025-09-27 21:45:20;;false;;\N;1529
+1833;465;Huyện Hướng Hóa;;Huyện Hướng Hóa;;huyen_huong_hoa;;2025-09-27 21:45:20;;false;;\N;1529
+1834;466;Huyện Gio Linh;;Huyện Gio Linh;;huyen_gio_linh;;2025-09-27 21:45:20;;false;;\N;1529
+1835;467;Huyện Đa Krông;;Huyện Đa Krông;;huyen_da_krong;;2025-09-27 21:45:20;;false;;\N;1529
+1836;468;Huyện Cam Lộ;;Huyện Cam Lộ;;huyen_cam_lo;;2025-09-27 21:45:20;;false;;\N;1529
+1837;469;Huyện Triệu Phong;;Huyện Triệu Phong;;huyen_trieu_phong;;2025-09-27 21:45:20;;false;;\N;1529
+1838;470;Huyện Hải Lăng;;Huyện Hải Lăng;;huyen_hai_lang;;2025-09-27 21:45:20;;false;;\N;1529
+1839;471;Huyện Cồn Cỏ;;Huyện Cồn Cỏ;;huyen_con_co;;2025-09-27 21:45:20;;false;;\N;1529
+1840;474;Quận Thuận Hóa;;Quận Thuận Hóa;;quan_thuan_hoa;;2025-09-27 21:45:20;;false;;\N;1530
+1841;475;Quận Phú Xuân;;Quận Phú Xuân;;quan_phu_xuan;;2025-09-27 21:45:20;;false;;\N;1530
+1842;476;Thị xã Phong Điền;;Thị xã Phong Điền;;thi_xa_phong_dien;;2025-09-27 21:45:20;;false;;\N;1530
+1843;477;Huyện Quảng Điền;;Huyện Quảng Điền;;huyen_quang_dien;;2025-09-27 21:45:20;;false;;\N;1530
+1844;478;Huyện Phú Vang;;Huyện Phú Vang;;huyen_phu_vang;;2025-09-27 21:45:20;;false;;\N;1530
+1845;479;Thị xã Hương Thủy;;Thị xã Hương Thủy;;thi_xa_huong_thuy;;2025-09-27 21:45:20;;false;;\N;1530
+1846;480;Thị xã Hương Trà;;Thị xã Hương Trà;;thi_xa_huong_tra;;2025-09-27 21:45:20;;false;;\N;1530
+1847;481;Huyện A Lưới;;Huyện A Lưới;;huyen_a_luoi;;2025-09-27 21:45:20;;false;;\N;1530
+1848;482;Huyện Phú Lộc;;Huyện Phú Lộc;;huyen_phu_loc;;2025-09-27 21:45:20;;false;;\N;1530
+1849;490;Quận Liên Chiểu;;Quận Liên Chiểu;;quan_lien_chieu;;2025-09-27 21:45:20;;false;;\N;1531
+1850;491;Quận Thanh Khê;;Quận Thanh Khê;;quan_thanh_khe;;2025-09-27 21:45:20;;false;;\N;1531
+1851;492;Quận Hải Châu;;Quận Hải Châu;;quan_hai_chau;;2025-09-27 21:45:20;;false;;\N;1531
+1852;493;Quận Sơn Trà;;Quận Sơn Trà;;quan_son_tra;;2025-09-27 21:45:20;;false;;\N;1531
+1853;494;Quận Ngũ Hành Sơn;;Quận Ngũ Hành Sơn;;quan_ngu_hanh_son;;2025-09-27 21:45:20;;false;;\N;1531
+1854;495;Quận Cẩm Lệ;;Quận Cẩm Lệ;;quan_cam_le;;2025-09-27 21:45:20;;false;;\N;1531
+1855;497;Huyện Hòa Vang;;Huyện Hòa Vang;;huyen_hoa_vang;;2025-09-27 21:45:20;;false;;\N;1531
+1856;498;Huyện Hoàng Sa;;Huyện Hoàng Sa;;huyen_hoang_sa;;2025-09-27 21:45:20;;false;;\N;1531
+1857;502;Thành phố Tam Kỳ;;Thành phố Tam Kỳ;;thanh_pho_tam_ky;;2025-09-27 21:45:20;;false;;\N;1532
+1858;503;Thành phố Hội An;;Thành phố Hội An;;thanh_pho_hoi_an;;2025-09-27 21:45:20;;false;;\N;1532
+1859;504;Huyện Tây Giang;;Huyện Tây Giang;;huyen_tay_giang;;2025-09-27 21:45:20;;false;;\N;1532
+1860;505;Huyện Đông Giang;;Huyện Đông Giang;;huyen_dong_giang;;2025-09-27 21:45:20;;false;;\N;1532
+1861;506;Huyện Đại Lộc;;Huyện Đại Lộc;;huyen_dai_loc;;2025-09-27 21:45:20;;false;;\N;1532
+1862;507;Thị xã Điện Bàn;;Thị xã Điện Bàn;;thi_xa_dien_ban;;2025-09-27 21:45:20;;false;;\N;1532
+1863;508;Huyện Duy Xuyên;;Huyện Duy Xuyên;;huyen_duy_xuyen;;2025-09-27 21:45:20;;false;;\N;1532
+1864;509;Huyện Quế Sơn;;Huyện Quế Sơn;;huyen_que_son;;2025-09-27 21:45:20;;false;;\N;1532
+1865;510;Huyện Nam Giang;;Huyện Nam Giang;;huyen_nam_giang;;2025-09-27 21:45:20;;false;;\N;1532
+1866;511;Huyện Phước Sơn;;Huyện Phước Sơn;;huyen_phuoc_son;;2025-09-27 21:45:20;;false;;\N;1532
+1867;512;Huyện Hiệp Đức;;Huyện Hiệp Đức;;huyen_hiep_duc;;2025-09-27 21:45:20;;false;;\N;1532
+1868;513;Huyện Thăng Bình;;Huyện Thăng Bình;;huyen_thang_binh;;2025-09-27 21:45:20;;false;;\N;1532
+1869;514;Huyện Tiên Phước;;Huyện Tiên Phước;;huyen_tien_phuoc;;2025-09-27 21:45:20;;false;;\N;1532
+1870;515;Huyện Bắc Trà My;;Huyện Bắc Trà My;;huyen_bac_tra_my;;2025-09-27 21:45:20;;false;;\N;1532
+1871;516;Huyện Nam Trà My;;Huyện Nam Trà My;;huyen_nam_tra_my;;2025-09-27 21:45:20;;false;;\N;1532
+1872;517;Huyện Núi Thành;;Huyện Núi Thành;;huyen_nui_thanh;;2025-09-27 21:45:20;;false;;\N;1532
+1873;518;Huyện Phú Ninh;;Huyện Phú Ninh;;huyen_phu_ninh;;2025-09-27 21:45:20;;false;;\N;1532
+1874;522;Thành phố Quảng Ngãi;;Thành phố Quảng Ngãi;;thanh_pho_quang_ngai;;2025-09-27 21:45:20;;false;;\N;1533
+1875;524;Huyện Bình Sơn;;Huyện Bình Sơn;;huyen_binh_son;;2025-09-27 21:45:20;;false;;\N;1533
+1876;525;Huyện Trà Bồng;;Huyện Trà Bồng;;huyen_tra_bong;;2025-09-27 21:45:20;;false;;\N;1533
+1877;527;Huyện Sơn Tịnh;;Huyện Sơn Tịnh;;huyen_son_tinh;;2025-09-27 21:45:20;;false;;\N;1533
+1878;528;Huyện Tư Nghĩa;;Huyện Tư Nghĩa;;huyen_tu_nghia;;2025-09-27 21:45:20;;false;;\N;1533
+1879;529;Huyện Sơn Hà;;Huyện Sơn Hà;;huyen_son_ha;;2025-09-27 21:45:20;;false;;\N;1533
+1880;530;Huyện Sơn Tây;;Huyện Sơn Tây;;huyen_son_tay;;2025-09-27 21:45:20;;false;;\N;1533
+1881;531;Huyện Minh Long;;Huyện Minh Long;;huyen_minh_long;;2025-09-27 21:45:20;;false;;\N;1533
+1882;532;Huyện Nghĩa Hành;;Huyện Nghĩa Hành;;huyen_nghia_hanh;;2025-09-27 21:45:20;;false;;\N;1533
+1883;533;Huyện Mộ Đức;;Huyện Mộ Đức;;huyen_mo_duc;;2025-09-27 21:45:20;;false;;\N;1533
+1884;534;Thị xã Đức Phổ;;Thị xã Đức Phổ;;thi_xa_duc_pho;;2025-09-27 21:45:20;;false;;\N;1533
+1885;535;Huyện Ba Tơ;;Huyện Ba Tơ;;huyen_ba_to;;2025-09-27 21:45:20;;false;;\N;1533
+1886;536;Huyện Lý Sơn;;Huyện Lý Sơn;;huyen_ly_son;;2025-09-27 21:45:20;;false;;\N;1533
+1887;540;Thành phố Quy Nhơn;;Thành phố Quy Nhơn;;thanh_pho_quy_nhon;;2025-09-27 21:45:20;;false;;\N;1534
+1888;542;Huyện An Lão;;Huyện An Lão;;huyen_an_lao;;2025-09-27 21:45:20;;false;;\N;1534
+1889;543;Thị xã Hoài Nhơn;;Thị xã Hoài Nhơn;;thi_xa_hoai_nhon;;2025-09-27 21:45:20;;false;;\N;1534
+1890;544;Huyện Hoài Ân;;Huyện Hoài Ân;;huyen_hoai_an;;2025-09-27 21:45:20;;false;;\N;1534
+1891;545;Huyện Phù Mỹ;;Huyện Phù Mỹ;;huyen_phu_my;;2025-09-27 21:45:20;;false;;\N;1534
+1892;546;Huyện Vĩnh Thạnh;;Huyện Vĩnh Thạnh;;huyen_vinh_thanh;;2025-09-27 21:45:20;;false;;\N;1534
+1893;547;Huyện Tây Sơn;;Huyện Tây Sơn;;huyen_tay_son;;2025-09-27 21:45:20;;false;;\N;1534
+1894;548;Huyện Phù Cát;;Huyện Phù Cát;;huyen_phu_cat;;2025-09-27 21:45:20;;false;;\N;1534
+1895;549;Thị xã An Nhơn;;Thị xã An Nhơn;;thi_xa_an_nhon;;2025-09-27 21:45:20;;false;;\N;1534
+1896;550;Huyện Tuy Phước;;Huyện Tuy Phước;;huyen_tuy_phuoc;;2025-09-27 21:45:20;;false;;\N;1534
+1897;551;Huyện Vân Canh;;Huyện Vân Canh;;huyen_van_canh;;2025-09-27 21:45:20;;false;;\N;1534
+1898;555;Thành phố Tuy Hoà;;Thành phố Tuy Hoà;;thanh_pho_tuy_hoa;;2025-09-27 21:45:20;;false;;\N;1535
+1899;557;Thị xã Sông Cầu;;Thị xã Sông Cầu;;thi_xa_song_cau;;2025-09-27 21:45:20;;false;;\N;1535
+1900;558;Huyện Đồng Xuân;;Huyện Đồng Xuân;;huyen_dong_xuan;;2025-09-27 21:45:20;;false;;\N;1535
+1901;559;Huyện Tuy An;;Huyện Tuy An;;huyen_tuy_an;;2025-09-27 21:45:20;;false;;\N;1535
+1902;560;Huyện Sơn Hòa;;Huyện Sơn Hòa;;huyen_son_hoa;;2025-09-27 21:45:20;;false;;\N;1535
+1903;561;Huyện Sông Hinh;;Huyện Sông Hinh;;huyen_song_hinh;;2025-09-27 21:45:20;;false;;\N;1535
+1904;562;Huyện Tây Hoà;;Huyện Tây Hoà;;huyen_tay_hoa;;2025-09-27 21:45:20;;false;;\N;1535
+1905;563;Huyện Phú Hoà;;Huyện Phú Hoà;;huyen_phu_hoa;;2025-09-27 21:45:20;;false;;\N;1535
+1906;564;Thị xã Đông Hòa;;Thị xã Đông Hòa;;thi_xa_dong_hoa;;2025-09-27 21:45:20;;false;;\N;1535
+1907;568;Thành phố Nha Trang;;Thành phố Nha Trang;;thanh_pho_nha_trang;;2025-09-27 21:45:20;;false;;\N;1536
+1908;569;Thành phố Cam Ranh;;Thành phố Cam Ranh;;thanh_pho_cam_ranh;;2025-09-27 21:45:20;;false;;\N;1536
+1909;570;Huyện Cam Lâm;;Huyện Cam Lâm;;huyen_cam_lam;;2025-09-27 21:45:20;;false;;\N;1536
+1910;571;Huyện Vạn Ninh;;Huyện Vạn Ninh;;huyen_van_ninh;;2025-09-27 21:45:20;;false;;\N;1536
+1911;572;Thị xã Ninh Hòa;;Thị xã Ninh Hòa;;thi_xa_ninh_hoa;;2025-09-27 21:45:20;;false;;\N;1536
+1912;573;Huyện Khánh Vĩnh;;Huyện Khánh Vĩnh;;huyen_khanh_vinh;;2025-09-27 21:45:20;;false;;\N;1536
+1913;574;Huyện Diên Khánh;;Huyện Diên Khánh;;huyen_dien_khanh;;2025-09-27 21:45:20;;false;;\N;1536
+1914;575;Huyện Khánh Sơn;;Huyện Khánh Sơn;;huyen_khanh_son;;2025-09-27 21:45:20;;false;;\N;1536
+1915;576;Huyện Trường Sa;;Huyện Trường Sa;;huyen_truong_sa;;2025-09-27 21:45:20;;false;;\N;1536
+1916;582;Thành phố Phan Rang-Tháp Chàm;;Thành phố Phan Rang-Tháp Chàm;;thanh_pho_phan_rang_thap_cham;;2025-09-27 21:45:20;;false;;\N;1537
+1917;584;Huyện Bác Ái;;Huyện Bác Ái;;huyen_bac_ai;;2025-09-27 21:45:20;;false;;\N;1537
+1918;585;Huyện Ninh Sơn;;Huyện Ninh Sơn;;huyen_ninh_son;;2025-09-27 21:45:20;;false;;\N;1537
+1919;586;Huyện Ninh Hải;;Huyện Ninh Hải;;huyen_ninh_hai;;2025-09-27 21:45:20;;false;;\N;1537
+1920;587;Huyện Ninh Phước;;Huyện Ninh Phước;;huyen_ninh_phuoc;;2025-09-27 21:45:20;;false;;\N;1537
+1921;588;Huyện Thuận Bắc;;Huyện Thuận Bắc;;huyen_thuan_bac;;2025-09-27 21:45:20;;false;;\N;1537
+1922;589;Huyện Thuận Nam;;Huyện Thuận Nam;;huyen_thuan_nam;;2025-09-27 21:45:20;;false;;\N;1537
+1923;593;Thành phố Phan Thiết;;Thành phố Phan Thiết;;thanh_pho_phan_thiet;;2025-09-27 21:45:20;;false;;\N;1538
+1924;594;Thị xã La Gi;;Thị xã La Gi;;thi_xa_la_gi;;2025-09-27 21:45:20;;false;;\N;1538
+1925;595;Huyện Tuy Phong;;Huyện Tuy Phong;;huyen_tuy_phong;;2025-09-27 21:45:20;;false;;\N;1538
+1926;596;Huyện Bắc Bình;;Huyện Bắc Bình;;huyen_bac_binh;;2025-09-27 21:45:20;;false;;\N;1538
+1927;597;Huyện Hàm Thuận Bắc;;Huyện Hàm Thuận Bắc;;huyen_ham_thuan_bac;;2025-09-27 21:45:20;;false;;\N;1538
+1928;598;Huyện Hàm Thuận Nam;;Huyện Hàm Thuận Nam;;huyen_ham_thuan_nam;;2025-09-27 21:45:20;;false;;\N;1538
+1929;599;Huyện Tánh Linh;;Huyện Tánh Linh;;huyen_tanh_linh;;2025-09-27 21:45:20;;false;;\N;1538
+1930;600;Huyện Đức Linh;;Huyện Đức Linh;;huyen_duc_linh;;2025-09-27 21:45:20;;false;;\N;1538
+1931;601;Huyện Hàm Tân;;Huyện Hàm Tân;;huyen_ham_tan;;2025-09-27 21:45:20;;false;;\N;1538
+1932;602;Huyện Phú Quí;;Huyện Phú Quí;;huyen_phu_qui;;2025-09-27 21:45:20;;false;;\N;1538
+1933;608;Thành phố Kon Tum;;Thành phố Kon Tum;;thanh_pho_kon_tum;;2025-09-27 21:45:20;;false;;\N;1539
+1934;610;Huyện Đắk Glei;;Huyện Đắk Glei;;huyen_dak_glei;;2025-09-27 21:45:20;;false;;\N;1539
+1935;611;Huyện Ngọc Hồi;;Huyện Ngọc Hồi;;huyen_ngoc_hoi;;2025-09-27 21:45:20;;false;;\N;1539
+1936;612;Huyện Đắk Tô;;Huyện Đắk Tô;;huyen_dak_to;;2025-09-27 21:45:20;;false;;\N;1539
+1937;613;Huyện Kon Plông;;Huyện Kon Plông;;huyen_kon_plong;;2025-09-27 21:45:20;;false;;\N;1539
+1938;614;Huyện Kon Rẫy;;Huyện Kon Rẫy;;huyen_kon_ray;;2025-09-27 21:45:20;;false;;\N;1539
+1939;615;Huyện Đắk Hà;;Huyện Đắk Hà;;huyen_dak_ha;;2025-09-27 21:45:20;;false;;\N;1539
+1940;616;Huyện Sa Thầy;;Huyện Sa Thầy;;huyen_sa_thay;;2025-09-27 21:45:20;;false;;\N;1539
+1941;617;Huyện Tu Mơ Rông;;Huyện Tu Mơ Rông;;huyen_tu_mo_rong;;2025-09-27 21:45:20;;false;;\N;1539
+1942;618;Huyện Ia H' Drai;;Huyện Ia H' Drai;;huyen_ia_h_drai;;2025-09-27 21:45:20;;false;;\N;1539
+1943;622;Thành phố Pleiku;;Thành phố Pleiku;;thanh_pho_pleiku;;2025-09-27 21:45:20;;false;;\N;1540
+1944;623;Thị xã An Khê;;Thị xã An Khê;;thi_xa_an_khe;;2025-09-27 21:45:20;;false;;\N;1540
+1945;624;Thị xã Ayun Pa;;Thị xã Ayun Pa;;thi_xa_ayun_pa;;2025-09-27 21:45:20;;false;;\N;1540
+1946;625;Huyện KBang;;Huyện KBang;;huyen_kbang;;2025-09-27 21:45:20;;false;;\N;1540
+1947;626;Huyện Đăk Đoa;;Huyện Đăk Đoa;;huyen_dak_doa;;2025-09-27 21:45:20;;false;;\N;1540
+1948;627;Huyện Chư Păh;;Huyện Chư Păh;;huyen_chu_pah;;2025-09-27 21:45:20;;false;;\N;1540
+1949;628;Huyện Ia Grai;;Huyện Ia Grai;;huyen_ia_grai;;2025-09-27 21:45:20;;false;;\N;1540
+1950;629;Huyện Mang Yang;;Huyện Mang Yang;;huyen_mang_yang;;2025-09-27 21:45:20;;false;;\N;1540
+1951;630;Huyện Kông Chro;;Huyện Kông Chro;;huyen_kong_chro;;2025-09-27 21:45:20;;false;;\N;1540
+1952;631;Huyện Đức Cơ;;Huyện Đức Cơ;;huyen_duc_co;;2025-09-27 21:45:20;;false;;\N;1540
+1953;632;Huyện Chư Prông;;Huyện Chư Prông;;huyen_chu_prong;;2025-09-27 21:45:20;;false;;\N;1540
+1954;633;Huyện Chư Sê;;Huyện Chư Sê;;huyen_chu_se;;2025-09-27 21:45:20;;false;;\N;1540
+1955;634;Huyện Đăk Pơ;;Huyện Đăk Pơ;;huyen_dak_po;;2025-09-27 21:45:20;;false;;\N;1540
+1956;635;Huyện Ia Pa;;Huyện Ia Pa;;huyen_ia_pa;;2025-09-27 21:45:20;;false;;\N;1540
+1957;637;Huyện Krông Pa;;Huyện Krông Pa;;huyen_krong_pa;;2025-09-27 21:45:20;;false;;\N;1540
+1958;638;Huyện Phú Thiện;;Huyện Phú Thiện;;huyen_phu_thien;;2025-09-27 21:45:20;;false;;\N;1540
+1959;639;Huyện Chư Pưh;;Huyện Chư Pưh;;huyen_chu_puh;;2025-09-27 21:45:20;;false;;\N;1540
+1960;643;Thành phố Buôn Ma Thuột;;Thành phố Buôn Ma Thuột;;thanh_pho_buon_ma_thuot;;2025-09-27 21:45:20;;false;;\N;1541
+1961;644;Thị xã Buôn Hồ;;Thị xã Buôn Hồ;;thi_xa_buon_ho;;2025-09-27 21:45:20;;false;;\N;1541
+1962;645;Huyện Ea H'leo;;Huyện Ea H'leo;;huyen_ea_hleo;;2025-09-27 21:45:20;;false;;\N;1541
+1963;646;Huyện Ea Súp;;Huyện Ea Súp;;huyen_ea_sup;;2025-09-27 21:45:20;;false;;\N;1541
+1964;647;Huyện Buôn Đôn;;Huyện Buôn Đôn;;huyen_buon_don;;2025-09-27 21:45:20;;false;;\N;1541
+1965;648;Huyện Cư M'gar;;Huyện Cư M'gar;;huyen_cu_mgar;;2025-09-27 21:45:20;;false;;\N;1541
+1966;649;Huyện Krông Búk;;Huyện Krông Búk;;huyen_krong_buk;;2025-09-27 21:45:20;;false;;\N;1541
+1967;650;Huyện Krông Năng;;Huyện Krông Năng;;huyen_krong_nang;;2025-09-27 21:45:20;;false;;\N;1541
+1968;651;Huyện Ea Kar;;Huyện Ea Kar;;huyen_ea_kar;;2025-09-27 21:45:20;;false;;\N;1541
+1969;652;Huyện M'Đrắk;;Huyện M'Đrắk;;huyen_mdrak;;2025-09-27 21:45:20;;false;;\N;1541
+1970;653;Huyện Krông Bông;;Huyện Krông Bông;;huyen_krong_bong;;2025-09-27 21:45:20;;false;;\N;1541
+1971;654;Huyện Krông Pắc;;Huyện Krông Pắc;;huyen_krong_pac;;2025-09-27 21:45:20;;false;;\N;1541
+1972;655;Huyện Krông A Na;;Huyện Krông A Na;;huyen_krong_a_na;;2025-09-27 21:45:20;;false;;\N;1541
+1973;656;Huyện Lắk;;Huyện Lắk;;huyen_lak;;2025-09-27 21:45:20;;false;;\N;1541
+1974;657;Huyện Cư Kuin;;Huyện Cư Kuin;;huyen_cu_kuin;;2025-09-27 21:45:20;;false;;\N;1541
+1975;660;Thành phố Gia Nghĩa;;Thành phố Gia Nghĩa;;thanh_pho_gia_nghia;;2025-09-27 21:45:20;;false;;\N;1542
+1976;661;Huyện Đăk Glong;;Huyện Đăk Glong;;huyen_dak_glong;;2025-09-27 21:45:20;;false;;\N;1542
+1977;662;Huyện Cư Jút;;Huyện Cư Jút;;huyen_cu_jut;;2025-09-27 21:45:20;;false;;\N;1542
+1978;663;Huyện Đắk Mil;;Huyện Đắk Mil;;huyen_dak_mil;;2025-09-27 21:45:20;;false;;\N;1542
+1979;664;Huyện Krông Nô;;Huyện Krông Nô;;huyen_krong_no;;2025-09-27 21:45:20;;false;;\N;1542
+1980;665;Huyện Đắk Song;;Huyện Đắk Song;;huyen_dak_song;;2025-09-27 21:45:20;;false;;\N;1542
+1981;666;Huyện Đắk R'Lấp;;Huyện Đắk R'Lấp;;huyen_dak_rlap;;2025-09-27 21:45:20;;false;;\N;1542
+1982;667;Huyện Tuy Đức;;Huyện Tuy Đức;;huyen_tuy_duc;;2025-09-27 21:45:20;;false;;\N;1542
+1983;672;Thành phố Đà Lạt;;Thành phố Đà Lạt;;thanh_pho_da_lat;;2025-09-27 21:45:20;;false;;\N;1543
+1984;673;Thành phố Bảo Lộc;;Thành phố Bảo Lộc;;thanh_pho_bao_loc;;2025-09-27 21:45:20;;false;;\N;1543
+1985;674;Huyện Đam Rông;;Huyện Đam Rông;;huyen_dam_rong;;2025-09-27 21:45:20;;false;;\N;1543
+1986;675;Huyện Lạc Dương;;Huyện Lạc Dương;;huyen_lac_duong;;2025-09-27 21:45:20;;false;;\N;1543
+1987;676;Huyện Lâm Hà;;Huyện Lâm Hà;;huyen_lam_ha;;2025-09-27 21:45:20;;false;;\N;1543
+1988;677;Huyện Đơn Dương;;Huyện Đơn Dương;;huyen_don_duong;;2025-09-27 21:45:20;;false;;\N;1543
+1989;678;Huyện Đức Trọng;;Huyện Đức Trọng;;huyen_duc_trong;;2025-09-27 21:45:20;;false;;\N;1543
+1990;679;Huyện Di Linh;;Huyện Di Linh;;huyen_di_linh;;2025-09-27 21:45:20;;false;;\N;1543
+1991;680;Huyện Bảo Lâm;;Huyện Bảo Lâm;;huyen_bao_lam;;2025-09-27 21:45:20;;false;;\N;1543
+1992;682;Huyện Đạ Huoai;;Huyện Đạ Huoai;;huyen_da_huoai;;2025-09-27 21:45:20;;false;;\N;1543
+1993;688;Thị xã Phước Long;;Thị xã Phước Long;;thi_xa_phuoc_long;;2025-09-27 21:45:20;;false;;\N;1544
+1994;689;Thành phố Đồng Xoài;;Thành phố Đồng Xoài;;thanh_pho_dong_xoai;;2025-09-27 21:45:20;;false;;\N;1544
+1995;690;Thị xã Bình Long;;Thị xã Bình Long;;thi_xa_binh_long;;2025-09-27 21:45:20;;false;;\N;1544
+1996;691;Huyện Bù Gia Mập;;Huyện Bù Gia Mập;;huyen_bu_gia_map;;2025-09-27 21:45:20;;false;;\N;1544
+1997;692;Huyện Lộc Ninh;;Huyện Lộc Ninh;;huyen_loc_ninh;;2025-09-27 21:45:20;;false;;\N;1544
+1998;693;Huyện Bù Đốp;;Huyện Bù Đốp;;huyen_bu_dop;;2025-09-27 21:45:20;;false;;\N;1544
+1999;694;Huyện Hớn Quản;;Huyện Hớn Quản;;huyen_hon_quan;;2025-09-27 21:45:20;;false;;\N;1544
+2000;695;Huyện Đồng Phú;;Huyện Đồng Phú;;huyen_dong_phu;;2025-09-27 21:45:20;;false;;\N;1544
+2001;696;Huyện Bù Đăng;;Huyện Bù Đăng;;huyen_bu_dang;;2025-09-27 21:45:20;;false;;\N;1544
+2002;697;Thị xã Chơn Thành;;Thị xã Chơn Thành;;thi_xa_chon_thanh;;2025-09-27 21:45:20;;false;;\N;1544
+2003;698;Huyện Phú Riềng;;Huyện Phú Riềng;;huyen_phu_rieng;;2025-09-27 21:45:20;;false;;\N;1544
+2004;703;Thành phố Tây Ninh;;Thành phố Tây Ninh;;thanh_pho_tay_ninh;;2025-09-27 21:45:20;;false;;\N;1545
+2005;705;Huyện Tân Biên;;Huyện Tân Biên;;huyen_tan_bien;;2025-09-27 21:45:20;;false;;\N;1545
+2006;706;Huyện Tân Châu;;Huyện Tân Châu;;huyen_tan_chau;;2025-09-27 21:45:20;;false;;\N;1545
+2007;707;Huyện Dương Minh Châu;;Huyện Dương Minh Châu;;huyen_duong_minh_chau;;2025-09-27 21:45:20;;false;;\N;1545
+2008;708;Huyện Châu Thành;;Huyện Châu Thành;;huyen_chau_thanh;;2025-09-27 21:45:20;;false;;\N;1545
+2009;709;Thị xã Hòa Thành;;Thị xã Hòa Thành;;thi_xa_hoa_thanh;;2025-09-27 21:45:20;;false;;\N;1545
+2010;710;Huyện Gò Dầu;;Huyện Gò Dầu;;huyen_go_dau;;2025-09-27 21:45:20;;false;;\N;1545
+2011;711;Huyện Bến Cầu;;Huyện Bến Cầu;;huyen_ben_cau;;2025-09-27 21:45:20;;false;;\N;1545
+2012;712;Thị xã Trảng Bàng;;Thị xã Trảng Bàng;;thi_xa_trang_bang;;2025-09-27 21:45:20;;false;;\N;1545
+2013;718;Thành phố Thủ Dầu Một;;Thành phố Thủ Dầu Một;;thanh_pho_thu_dau_mot;;2025-09-27 21:45:20;;false;;\N;1546
+2014;719;Huyện Bàu Bàng;;Huyện Bàu Bàng;;huyen_bau_bang;;2025-09-27 21:45:20;;false;;\N;1546
+2015;720;Huyện Dầu Tiếng;;Huyện Dầu Tiếng;;huyen_dau_tieng;;2025-09-27 21:45:20;;false;;\N;1546
+2016;721;Thành phố Bến Cát;;Thành phố Bến Cát;;thanh_pho_ben_cat;;2025-09-27 21:45:20;;false;;\N;1546
+2017;722;Huyện Phú Giáo;;Huyện Phú Giáo;;huyen_phu_giao;;2025-09-27 21:45:20;;false;;\N;1546
+2018;723;Thành phố Tân Uyên;;Thành phố Tân Uyên;;thanh_pho_tan_uyen;;2025-09-27 21:45:20;;false;;\N;1546
+2019;724;Thành phố Dĩ An;;Thành phố Dĩ An;;thanh_pho_di_an;;2025-09-27 21:45:20;;false;;\N;1546
+2020;725;Thành phố Thuận An;;Thành phố Thuận An;;thanh_pho_thuan_an;;2025-09-27 21:45:20;;false;;\N;1546
+2021;726;Huyện Bắc Tân Uyên;;Huyện Bắc Tân Uyên;;huyen_bac_tan_uyen;;2025-09-27 21:45:20;;false;;\N;1546
+2022;731;Thành phố Biên Hòa;;Thành phố Biên Hòa;;thanh_pho_bien_hoa;;2025-09-27 21:45:20;;false;;\N;1547
+2023;732;Thành phố Long Khánh;;Thành phố Long Khánh;;thanh_pho_long_khanh;;2025-09-27 21:45:20;;false;;\N;1547
+2024;734;Huyện Tân Phú;;Huyện Tân Phú;;huyen_tan_phu;;2025-09-27 21:45:20;;false;;\N;1547
+2025;735;Huyện Vĩnh Cửu;;Huyện Vĩnh Cửu;;huyen_vinh_cuu;;2025-09-27 21:45:20;;false;;\N;1547
+2026;736;Huyện Định Quán;;Huyện Định Quán;;huyen_dinh_quan;;2025-09-27 21:45:20;;false;;\N;1547
+2027;737;Huyện Trảng Bom;;Huyện Trảng Bom;;huyen_trang_bom;;2025-09-27 21:45:20;;false;;\N;1547
+2028;738;Huyện Thống Nhất;;Huyện Thống Nhất;;huyen_thong_nhat;;2025-09-27 21:45:20;;false;;\N;1547
+2029;739;Huyện Cẩm Mỹ;;Huyện Cẩm Mỹ;;huyen_cam_my;;2025-09-27 21:45:20;;false;;\N;1547
+2030;740;Huyện Long Thành;;Huyện Long Thành;;huyen_long_thanh;;2025-09-27 21:45:20;;false;;\N;1547
+2031;741;Huyện Xuân Lộc;;Huyện Xuân Lộc;;huyen_xuan_loc;;2025-09-27 21:45:20;;false;;\N;1547
+2032;742;Huyện Nhơn Trạch;;Huyện Nhơn Trạch;;huyen_nhon_trach;;2025-09-27 21:45:20;;false;;\N;1547
+2033;747;Thành phố Vũng Tàu;;Thành phố Vũng Tàu;;thanh_pho_vung_tau;;2025-09-27 21:45:20;;false;;\N;1548
+2034;748;Thành phố Bà Rịa;;Thành phố Bà Rịa;;thanh_pho_ba_ria;;2025-09-27 21:45:20;;false;;\N;1548
+2035;750;Huyện Châu Đức;;Huyện Châu Đức;;huyen_chau_duc;;2025-09-27 21:45:20;;false;;\N;1548
+2036;751;Huyện Xuyên Mộc;;Huyện Xuyên Mộc;;huyen_xuyen_moc;;2025-09-27 21:45:20;;false;;\N;1548
+2037;753;Huyện Long Đất;;Huyện Long Đất;;huyen_long_dat;;2025-09-27 21:45:20;;false;;\N;1548
+2038;754;Thị xã Phú Mỹ;;Thị xã Phú Mỹ;;thi_xa_phu_my;;2025-09-27 21:45:20;;false;;\N;1548
+2039;755;Huyện Côn Đảo;;Huyện Côn Đảo;;huyen_con_dao;;2025-09-27 21:45:20;;false;;\N;1548
+2040;760;Quận 1;;Quận 1;;quan_1;;2025-09-27 21:45:20;;false;;\N;1549
+2041;761;Quận 12;;Quận 12;;quan_12;;2025-09-27 21:45:20;;false;;\N;1549
+2042;764;Quận Gò Vấp;;Quận Gò Vấp;;quan_go_vap;;2025-09-27 21:45:20;;false;;\N;1549
+2043;765;Quận Bình Thạnh;;Quận Bình Thạnh;;quan_binh_thanh;;2025-09-27 21:45:20;;false;;\N;1549
+2044;766;Quận Tân Bình;;Quận Tân Bình;;quan_tan_binh;;2025-09-27 21:45:20;;false;;\N;1549
+2045;767;Quận Tân Phú;;Quận Tân Phú;;quan_tan_phu;;2025-09-27 21:45:20;;false;;\N;1549
+2046;768;Quận Phú Nhuận;;Quận Phú Nhuận;;quan_phu_nhuan;;2025-09-27 21:45:20;;false;;\N;1549
+2047;769;Thành phố Thủ Đức;;Thành phố Thủ Đức;;thanh_pho_thu_duc;;2025-09-27 21:45:20;;false;;\N;1549
+2048;770;Quận 3;;Quận 3;;quan_3;;2025-09-27 21:45:20;;false;;\N;1549
+2049;771;Quận 10;;Quận 10;;quan_10;;2025-09-27 21:45:20;;false;;\N;1549
+2050;772;Quận 11;;Quận 11;;quan_11;;2025-09-27 21:45:20;;false;;\N;1549
+2051;773;Quận 4;;Quận 4;;quan_4;;2025-09-27 21:45:20;;false;;\N;1549
+2052;774;Quận 5;;Quận 5;;quan_5;;2025-09-27 21:45:20;;false;;\N;1549
+2053;775;Quận 6;;Quận 6;;quan_6;;2025-09-27 21:45:20;;false;;\N;1549
+2054;776;Quận 8;;Quận 8;;quan_8;;2025-09-27 21:45:20;;false;;\N;1549
+2055;777;Quận Bình Tân;;Quận Bình Tân;;quan_binh_tan;;2025-09-27 21:45:20;;false;;\N;1549
+2056;778;Quận 7;;Quận 7;;quan_7;;2025-09-27 21:45:20;;false;;\N;1549
+2057;783;Huyện Củ Chi;;Huyện Củ Chi;;huyen_cu_chi;;2025-09-27 21:45:20;;false;;\N;1549
+2058;784;Huyện Hóc Môn;;Huyện Hóc Môn;;huyen_hoc_mon;;2025-09-27 21:45:20;;false;;\N;1549
+2059;785;Huyện Bình Chánh;;Huyện Bình Chánh;;huyen_binh_chanh;;2025-09-27 21:45:20;;false;;\N;1549
+2060;786;Huyện Nhà Bè;;Huyện Nhà Bè;;huyen_nha_be;;2025-09-27 21:45:20;;false;;\N;1549
+2061;787;Huyện Cần Giờ;;Huyện Cần Giờ;;huyen_can_gio;;2025-09-27 21:45:20;;false;;\N;1549
+2062;794;Thành phố Tân An;;Thành phố Tân An;;thanh_pho_tan_an;;2025-09-27 21:45:20;;false;;\N;1550
+2063;795;Thị xã Kiến Tường;;Thị xã Kiến Tường;;thi_xa_kien_tuong;;2025-09-27 21:45:20;;false;;\N;1550
+2064;796;Huyện Tân Hưng;;Huyện Tân Hưng;;huyen_tan_hung;;2025-09-27 21:45:20;;false;;\N;1550
+2065;797;Huyện Vĩnh Hưng;;Huyện Vĩnh Hưng;;huyen_vinh_hung;;2025-09-27 21:45:20;;false;;\N;1550
+2066;798;Huyện Mộc Hóa;;Huyện Mộc Hóa;;huyen_moc_hoa;;2025-09-27 21:45:20;;false;;\N;1550
+2067;799;Huyện Tân Thạnh;;Huyện Tân Thạnh;;huyen_tan_thanh;;2025-09-27 21:45:20;;false;;\N;1550
+2068;800;Huyện Thạnh Hóa;;Huyện Thạnh Hóa;;huyen_thanh_hoa;;2025-09-27 21:45:20;;false;;\N;1550
+2069;801;Huyện Đức Huệ;;Huyện Đức Huệ;;huyen_duc_hue;;2025-09-27 21:45:20;;false;;\N;1550
+2070;802;Huyện Đức Hòa;;Huyện Đức Hòa;;huyen_duc_hoa;;2025-09-27 21:45:20;;false;;\N;1550
+2071;803;Huyện Bến Lức;;Huyện Bến Lức;;huyen_ben_luc;;2025-09-27 21:45:20;;false;;\N;1550
+2072;804;Huyện Thủ Thừa;;Huyện Thủ Thừa;;huyen_thu_thua;;2025-09-27 21:45:20;;false;;\N;1550
+2073;805;Huyện Tân Trụ;;Huyện Tân Trụ;;huyen_tan_tru;;2025-09-27 21:45:20;;false;;\N;1550
+2074;806;Huyện Cần Đước;;Huyện Cần Đước;;huyen_can_duoc;;2025-09-27 21:45:20;;false;;\N;1550
+2075;807;Huyện Cần Giuộc;;Huyện Cần Giuộc;;huyen_can_giuoc;;2025-09-27 21:45:20;;false;;\N;1550
+2076;808;Huyện Châu Thành;;Huyện Châu Thành;;huyen_chau_thanh;;2025-09-27 21:45:20;;false;;\N;1550
+2077;815;Thành phố Mỹ Tho;;Thành phố Mỹ Tho;;thanh_pho_my_tho;;2025-09-27 21:45:20;;false;;\N;1551
+2078;816;Thành phố Gò Công;;Thành phố Gò Công;;thanh_pho_go_cong;;2025-09-27 21:45:20;;false;;\N;1551
+2079;817;Thị xã Cai Lậy;;Thị xã Cai Lậy;;thi_xa_cai_lay;;2025-09-27 21:45:20;;false;;\N;1551
+2080;818;Huyện Tân Phước;;Huyện Tân Phước;;huyen_tan_phuoc;;2025-09-27 21:45:20;;false;;\N;1551
+2081;819;Huyện Cái Bè;;Huyện Cái Bè;;huyen_cai_be;;2025-09-27 21:45:20;;false;;\N;1551
+2082;820;Huyện Cai Lậy;;Huyện Cai Lậy;;huyen_cai_lay;;2025-09-27 21:45:20;;false;;\N;1551
+2083;821;Huyện Châu Thành;;Huyện Châu Thành;;huyen_chau_thanh;;2025-09-27 21:45:20;;false;;\N;1551
+2084;822;Huyện Chợ Gạo;;Huyện Chợ Gạo;;huyen_cho_gao;;2025-09-27 21:45:20;;false;;\N;1551
+2085;823;Huyện Gò Công Tây;;Huyện Gò Công Tây;;huyen_go_cong_tay;;2025-09-27 21:45:20;;false;;\N;1551
+2086;824;Huyện Gò Công Đông;;Huyện Gò Công Đông;;huyen_go_cong_dong;;2025-09-27 21:45:20;;false;;\N;1551
+2087;825;Huyện Tân Phú Đông;;Huyện Tân Phú Đông;;huyen_tan_phu_dong;;2025-09-27 21:45:20;;false;;\N;1551
+2088;829;Thành phố Bến Tre;;Thành phố Bến Tre;;thanh_pho_ben_tre;;2025-09-27 21:45:20;;false;;\N;1552
+2089;831;Huyện Châu Thành;;Huyện Châu Thành;;huyen_chau_thanh;;2025-09-27 21:45:20;;false;;\N;1552
+2090;832;Huyện Chợ Lách;;Huyện Chợ Lách;;huyen_cho_lach;;2025-09-27 21:45:20;;false;;\N;1552
+2091;833;Huyện Mỏ Cày Nam;;Huyện Mỏ Cày Nam;;huyen_mo_cay_nam;;2025-09-27 21:45:20;;false;;\N;1552
+2092;834;Huyện Giồng Trôm;;Huyện Giồng Trôm;;huyen_giong_trom;;2025-09-27 21:45:20;;false;;\N;1552
+2093;835;Huyện Bình Đại;;Huyện Bình Đại;;huyen_binh_dai;;2025-09-27 21:45:20;;false;;\N;1552
+2094;836;Huyện Ba Tri;;Huyện Ba Tri;;huyen_ba_tri;;2025-09-27 21:45:20;;false;;\N;1552
+2095;837;Huyện Thạnh Phú;;Huyện Thạnh Phú;;huyen_thanh_phu;;2025-09-27 21:45:20;;false;;\N;1552
+2096;838;Huyện Mỏ Cày Bắc;;Huyện Mỏ Cày Bắc;;huyen_mo_cay_bac;;2025-09-27 21:45:20;;false;;\N;1552
+2097;842;Thành phố Trà Vinh;;Thành phố Trà Vinh;;thanh_pho_tra_vinh;;2025-09-27 21:45:20;;false;;\N;1553
+2098;844;Huyện Càng Long;;Huyện Càng Long;;huyen_cang_long;;2025-09-27 21:45:20;;false;;\N;1553
+2099;845;Huyện Cầu Kè;;Huyện Cầu Kè;;huyen_cau_ke;;2025-09-27 21:45:20;;false;;\N;1553
+2100;846;Huyện Tiểu Cần;;Huyện Tiểu Cần;;huyen_tieu_can;;2025-09-27 21:45:20;;false;;\N;1553
+2101;847;Huyện Châu Thành;;Huyện Châu Thành;;huyen_chau_thanh;;2025-09-27 21:45:20;;false;;\N;1553
+2102;848;Huyện Cầu Ngang;;Huyện Cầu Ngang;;huyen_cau_ngang;;2025-09-27 21:45:20;;false;;\N;1553
+2103;849;Huyện Trà Cú;;Huyện Trà Cú;;huyen_tra_cu;;2025-09-27 21:45:20;;false;;\N;1553
+2104;850;Huyện Duyên Hải;;Huyện Duyên Hải;;huyen_duyen_hai;;2025-09-27 21:45:20;;false;;\N;1553
+2105;851;Thị xã Duyên Hải;;Thị xã Duyên Hải;;thi_xa_duyen_hai;;2025-09-27 21:45:20;;false;;\N;1553
+2106;855;Thành phố Vĩnh Long;;Thành phố Vĩnh Long;;thanh_pho_vinh_long;;2025-09-27 21:45:20;;false;;\N;1554
+2107;857;Huyện Long Hồ;;Huyện Long Hồ;;huyen_long_ho;;2025-09-27 21:45:20;;false;;\N;1554
+2108;858;Huyện Mang Thít;;Huyện Mang Thít;;huyen_mang_thit;;2025-09-27 21:45:20;;false;;\N;1554
+2109;859;Huyện Vũng Liêm;;Huyện Vũng Liêm;;huyen_vung_liem;;2025-09-27 21:45:20;;false;;\N;1554
+2110;860;Huyện Tam Bình;;Huyện Tam Bình;;huyen_tam_binh;;2025-09-27 21:45:20;;false;;\N;1554
+2111;861;Thị xã Bình Minh;;Thị xã Bình Minh;;thi_xa_binh_minh;;2025-09-27 21:45:20;;false;;\N;1554
+2112;862;Huyện Trà Ôn;;Huyện Trà Ôn;;huyen_tra_on;;2025-09-27 21:45:20;;false;;\N;1554
+2113;863;Huyện Bình Tân;;Huyện Bình Tân;;huyen_binh_tan;;2025-09-27 21:45:20;;false;;\N;1554
+2114;866;Thành phố Cao Lãnh;;Thành phố Cao Lãnh;;thanh_pho_cao_lanh;;2025-09-27 21:45:20;;false;;\N;1555
+2115;867;Thành phố Sa Đéc;;Thành phố Sa Đéc;;thanh_pho_sa_dec;;2025-09-27 21:45:20;;false;;\N;1555
+2116;868;Thành phố Hồng Ngự;;Thành phố Hồng Ngự;;thanh_pho_hong_ngu;;2025-09-27 21:45:20;;false;;\N;1555
+2117;869;Huyện Tân Hồng;;Huyện Tân Hồng;;huyen_tan_hong;;2025-09-27 21:45:20;;false;;\N;1555
+2118;870;Huyện Hồng Ngự;;Huyện Hồng Ngự;;huyen_hong_ngu;;2025-09-27 21:45:20;;false;;\N;1555
+2119;871;Huyện Tam Nông;;Huyện Tam Nông;;huyen_tam_nong;;2025-09-27 21:45:20;;false;;\N;1555
+2120;872;Huyện Tháp Mười;;Huyện Tháp Mười;;huyen_thap_muoi;;2025-09-27 21:45:20;;false;;\N;1555
+2121;873;Huyện Cao Lãnh;;Huyện Cao Lãnh;;huyen_cao_lanh;;2025-09-27 21:45:20;;false;;\N;1555
+2122;874;Huyện Thanh Bình;;Huyện Thanh Bình;;huyen_thanh_binh;;2025-09-27 21:45:20;;false;;\N;1555
+2123;875;Huyện Lấp Vò;;Huyện Lấp Vò;;huyen_lap_vo;;2025-09-27 21:45:20;;false;;\N;1555
+2124;876;Huyện Lai Vung;;Huyện Lai Vung;;huyen_lai_vung;;2025-09-27 21:45:20;;false;;\N;1555
+2125;877;Huyện Châu Thành;;Huyện Châu Thành;;huyen_chau_thanh;;2025-09-27 21:45:20;;false;;\N;1555
+2126;883;Thành phố Long Xuyên;;Thành phố Long Xuyên;;thanh_pho_long_xuyen;;2025-09-27 21:45:20;;false;;\N;1556
+2127;884;Thành phố Châu Đốc;;Thành phố Châu Đốc;;thanh_pho_chau_doc;;2025-09-27 21:45:20;;false;;\N;1556
+2128;886;Huyện An Phú;;Huyện An Phú;;huyen_an_phu;;2025-09-27 21:45:20;;false;;\N;1556
+2129;887;Thị xã Tân Châu;;Thị xã Tân Châu;;thi_xa_tan_chau;;2025-09-27 21:45:20;;false;;\N;1556
+2130;888;Huyện Phú Tân;;Huyện Phú Tân;;huyen_phu_tan;;2025-09-27 21:45:20;;false;;\N;1556
+2131;889;Huyện Châu Phú;;Huyện Châu Phú;;huyen_chau_phu;;2025-09-27 21:45:20;;false;;\N;1556
+2132;890;Thị xã Tịnh Biên;;Thị xã Tịnh Biên;;thi_xa_tinh_bien;;2025-09-27 21:45:20;;false;;\N;1556
+2133;891;Huyện Tri Tôn;;Huyện Tri Tôn;;huyen_tri_ton;;2025-09-27 21:45:20;;false;;\N;1556
+2134;892;Huyện Châu Thành;;Huyện Châu Thành;;huyen_chau_thanh;;2025-09-27 21:45:20;;false;;\N;1556
+2135;893;Huyện Chợ Mới;;Huyện Chợ Mới;;huyen_cho_moi;;2025-09-27 21:45:20;;false;;\N;1556
+2136;894;Huyện Thoại Sơn;;Huyện Thoại Sơn;;huyen_thoai_son;;2025-09-27 21:45:20;;false;;\N;1556
+2137;899;Thành phố Rạch Giá;;Thành phố Rạch Giá;;thanh_pho_rach_gia;;2025-09-27 21:45:20;;false;;\N;1557
+2138;900;Thành phố Hà Tiên;;Thành phố Hà Tiên;;thanh_pho_ha_tien;;2025-09-27 21:45:20;;false;;\N;1557
+2139;902;Huyện Kiên Lương;;Huyện Kiên Lương;;huyen_kien_luong;;2025-09-27 21:45:20;;false;;\N;1557
+2140;903;Huyện Hòn Đất;;Huyện Hòn Đất;;huyen_hon_dat;;2025-09-27 21:45:20;;false;;\N;1557
+2141;904;Huyện Tân Hiệp;;Huyện Tân Hiệp;;huyen_tan_hiep;;2025-09-27 21:45:20;;false;;\N;1557
+2142;905;Huyện Châu Thành;;Huyện Châu Thành;;huyen_chau_thanh;;2025-09-27 21:45:20;;false;;\N;1557
+2143;906;Huyện Giồng Riềng;;Huyện Giồng Riềng;;huyen_giong_rieng;;2025-09-27 21:45:20;;false;;\N;1557
+2144;907;Huyện Gò Quao;;Huyện Gò Quao;;huyen_go_quao;;2025-09-27 21:45:20;;false;;\N;1557
+2145;908;Huyện An Biên;;Huyện An Biên;;huyen_an_bien;;2025-09-27 21:45:20;;false;;\N;1557
+2146;909;Huyện An Minh;;Huyện An Minh;;huyen_an_minh;;2025-09-27 21:45:20;;false;;\N;1557
+2147;910;Huyện Vĩnh Thuận;;Huyện Vĩnh Thuận;;huyen_vinh_thuan;;2025-09-27 21:45:20;;false;;\N;1557
+2148;911;Thành phố Phú Quốc;;Thành phố Phú Quốc;;thanh_pho_phu_quoc;;2025-09-27 21:45:20;;false;;\N;1557
+2149;912;Huyện Kiên Hải;;Huyện Kiên Hải;;huyen_kien_hai;;2025-09-27 21:45:20;;false;;\N;1557
+2150;913;Huyện U Minh Thượng;;Huyện U Minh Thượng;;huyen_u_minh_thuong;;2025-09-27 21:45:20;;false;;\N;1557
+2151;914;Huyện Giang Thành;;Huyện Giang Thành;;huyen_giang_thanh;;2025-09-27 21:45:20;;false;;\N;1557
+2152;916;Quận Ninh Kiều;;Quận Ninh Kiều;;quan_ninh_kieu;;2025-09-27 21:45:20;;false;;\N;1558
+2153;917;Quận Ô Môn;;Quận Ô Môn;;quan_o_mon;;2025-09-27 21:45:20;;false;;\N;1558
+2154;918;Quận Bình Thuỷ;;Quận Bình Thuỷ;;quan_binh_thuy;;2025-09-27 21:45:20;;false;;\N;1558
+2155;919;Quận Cái Răng;;Quận Cái Răng;;quan_cai_rang;;2025-09-27 21:45:20;;false;;\N;1558
+2156;923;Quận Thốt Nốt;;Quận Thốt Nốt;;quan_thot_not;;2025-09-27 21:45:20;;false;;\N;1558
+2157;924;Huyện Vĩnh Thạnh;;Huyện Vĩnh Thạnh;;huyen_vinh_thanh;;2025-09-27 21:45:20;;false;;\N;1558
+2158;925;Huyện Cờ Đỏ;;Huyện Cờ Đỏ;;huyen_co_do;;2025-09-27 21:45:20;;false;;\N;1558
+2159;926;Huyện Phong Điền;;Huyện Phong Điền;;huyen_phong_dien;;2025-09-27 21:45:20;;false;;\N;1558
+2160;927;Huyện Thới Lai;;Huyện Thới Lai;;huyen_thoi_lai;;2025-09-27 21:45:20;;false;;\N;1558
+2161;930;Thành phố Vị Thanh;;Thành phố Vị Thanh;;thanh_pho_vi_thanh;;2025-09-27 21:45:20;;false;;\N;1559
+2162;931;Thành phố Ngã Bảy;;Thành phố Ngã Bảy;;thanh_pho_nga_bay;;2025-09-27 21:45:20;;false;;\N;1559
+2163;932;Huyện Châu Thành A;;Huyện Châu Thành A;;huyen_chau_thanh_a;;2025-09-27 21:45:20;;false;;\N;1559
+2164;933;Huyện Châu Thành;;Huyện Châu Thành;;huyen_chau_thanh;;2025-09-27 21:45:20;;false;;\N;1559
+2165;934;Huyện Phụng Hiệp;;Huyện Phụng Hiệp;;huyen_phung_hiep;;2025-09-27 21:45:20;;false;;\N;1559
+2166;935;Huyện Vị Thuỷ;;Huyện Vị Thuỷ;;huyen_vi_thuy;;2025-09-27 21:45:20;;false;;\N;1559
+2167;936;Huyện Long Mỹ;;Huyện Long Mỹ;;huyen_long_my;;2025-09-27 21:45:20;;false;;\N;1559
+2168;937;Thị xã Long Mỹ;;Thị xã Long Mỹ;;thi_xa_long_my;;2025-09-27 21:45:20;;false;;\N;1559
+2169;941;Thành phố Sóc Trăng;;Thành phố Sóc Trăng;;thanh_pho_soc_trang;;2025-09-27 21:45:20;;false;;\N;1560
+2170;942;Huyện Châu Thành;;Huyện Châu Thành;;huyen_chau_thanh;;2025-09-27 21:45:20;;false;;\N;1560
+2171;943;Huyện Kế Sách;;Huyện Kế Sách;;huyen_ke_sach;;2025-09-27 21:45:20;;false;;\N;1560
+2172;944;Huyện Mỹ Tú;;Huyện Mỹ Tú;;huyen_my_tu;;2025-09-27 21:45:20;;false;;\N;1560
+2173;945;Huyện Cù Lao Dung;;Huyện Cù Lao Dung;;huyen_cu_lao_dung;;2025-09-27 21:45:20;;false;;\N;1560
+2174;946;Huyện Long Phú;;Huyện Long Phú;;huyen_long_phu;;2025-09-27 21:45:20;;false;;\N;1560
+2175;947;Huyện Mỹ Xuyên;;Huyện Mỹ Xuyên;;huyen_my_xuyen;;2025-09-27 21:45:20;;false;;\N;1560
+2176;948;Thị xã Ngã Năm;;Thị xã Ngã Năm;;thi_xa_nga_nam;;2025-09-27 21:45:20;;false;;\N;1560
+2177;949;Huyện Thạnh Trị;;Huyện Thạnh Trị;;huyen_thanh_tri;;2025-09-27 21:45:20;;false;;\N;1560
+2178;950;Thị xã Vĩnh Châu;;Thị xã Vĩnh Châu;;thi_xa_vinh_chau;;2025-09-27 21:45:20;;false;;\N;1560
+2179;951;Huyện Trần Đề;;Huyện Trần Đề;;huyen_tran_de;;2025-09-27 21:45:20;;false;;\N;1560
+2180;954;Thành phố Bạc Liêu;;Thành phố Bạc Liêu;;thanh_pho_bac_lieu;;2025-09-27 21:45:20;;false;;\N;1561
+2181;956;Huyện Hồng Dân;;Huyện Hồng Dân;;huyen_hong_dan;;2025-09-27 21:45:20;;false;;\N;1561
+2182;957;Huyện Phước Long;;Huyện Phước Long;;huyen_phuoc_long;;2025-09-27 21:45:20;;false;;\N;1561
+2183;958;Huyện Vĩnh Lợi;;Huyện Vĩnh Lợi;;huyen_vinh_loi;;2025-09-27 21:45:20;;false;;\N;1561
+2184;959;Thị xã Giá Rai;;Thị xã Giá Rai;;thi_xa_gia_rai;;2025-09-27 21:45:20;;false;;\N;1561
+2185;960;Huyện Đông Hải;;Huyện Đông Hải;;huyen_dong_hai;;2025-09-27 21:45:20;;false;;\N;1561
+2186;961;Huyện Hoà Bình;;Huyện Hoà Bình;;huyen_hoa_binh;;2025-09-27 21:45:20;;false;;\N;1561
+2187;964;Thành phố Cà Mau;;Thành phố Cà Mau;;thanh_pho_ca_mau;;2025-09-27 21:45:20;;false;;\N;1562
+2188;966;Huyện U Minh;;Huyện U Minh;;huyen_u_minh;;2025-09-27 21:45:20;;false;;\N;1562
+2189;967;Huyện Thới Bình;;Huyện Thới Bình;;huyen_thoi_binh;;2025-09-27 21:45:20;;false;;\N;1562
+2190;968;Huyện Trần Văn Thời;;Huyện Trần Văn Thời;;huyen_tran_van_thoi;;2025-09-27 21:45:20;;false;;\N;1562
+2191;969;Huyện Cái Nước;;Huyện Cái Nước;;huyen_cai_nuoc;;2025-09-27 21:45:20;;false;;\N;1562
+2192;970;Huyện Đầm Dơi;;Huyện Đầm Dơi;;huyen_dam_doi;;2025-09-27 21:45:20;;false;;\N;1562
+2193;971;Huyện Năm Căn;;Huyện Năm Căn;;huyen_nam_can;;2025-09-27 21:45:20;;false;;\N;1562
+2194;972;Huyện Phú Tân;;Huyện Phú Tân;;huyen_phu_tan;;2025-09-27 21:45:20;;false;;\N;1562
+2195;973;Huyện Ngọc Hiển;;Huyện Ngọc Hiển;;huyen_ngoc_hien;;2025-09-27 21:45:20;;false;;\N;1562

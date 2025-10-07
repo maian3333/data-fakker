@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<databaseChangeLog
+    xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+    xmlns:ext="http://www.liquibase.org/xml/ns/dbchangelog-ext"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd
+                        http://www.liquibase.org/xml/ns/dbchangelog-ext http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-ext.xsd">
+    <!--
+        Added the constraints for entity Trip.
+    -->
+    <changeSet id="20250923140059-2" author="jhipster">
+
+        <addForeignKeyConstraint baseColumnNames="route_id"
+                                 baseTableName="trip"
+                                 constraintName="fk_trip__route_id"
+                                 referencedColumnNames="id"
+                                 referencedTableName="route"
+                                 />
+
+        <addForeignKeyConstraint baseColumnNames="vehicle_id"
+                                 baseTableName="trip"
+                                 constraintName="fk_trip__vehicle_id"
+                                 referencedColumnNames="id"
+                                 referencedTableName="vehicle"
+                                 />
+
+        <addForeignKeyConstraint baseColumnNames="driver_id"
+                                 baseTableName="trip"
+                                 constraintName="fk_trip__driver_id"
+                                 referencedColumnNames="id"
+                                 referencedTableName="driver"
+                                 />
+
+        <addForeignKeyConstraint baseColumnNames="attendant_id"
+                                 baseTableName="trip"
+                                 constraintName="fk_trip__attendant_id"
+                                 referencedColumnNames="id"
+                                 referencedTableName="attendant"
+                                 />
+    </changeSet>
+</databaseChangeLog>

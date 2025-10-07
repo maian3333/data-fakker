@@ -1,0 +1,64 @@
+id;province_code;name;name_en;full_name;full_name_en;code_name;administrative_unit_id;administrative_region_id;created_at;updated_at;is_deleted;deleted_at;deleted_by
+1500;1;Thành phố Hà Nội;;Thành phố Hà Nội;;thanh_pho_ha_noi;;;2025-09-27 21:45:20;;false;;\N
+1501;2;Tỉnh Hà Giang;;Tỉnh Hà Giang;;tinh_ha_giang;;;2025-09-27 21:45:20;;false;;\N
+1502;4;Tỉnh Cao Bằng;;Tỉnh Cao Bằng;;tinh_cao_bang;;;2025-09-27 21:45:20;;false;;\N
+1503;6;Tỉnh Bắc Kạn;;Tỉnh Bắc Kạn;;tinh_bac_kan;;;2025-09-27 21:45:20;;false;;\N
+1504;8;Tỉnh Tuyên Quang;;Tỉnh Tuyên Quang;;tinh_tuyen_quang;;;2025-09-27 21:45:20;;false;;\N
+1505;10;Tỉnh Lào Cai;;Tỉnh Lào Cai;;tinh_lao_cai;;;2025-09-27 21:45:20;;false;;\N
+1506;11;Tỉnh Điện Biên;;Tỉnh Điện Biên;;tinh_dien_bien;;;2025-09-27 21:45:20;;false;;\N
+1507;12;Tỉnh Lai Châu;;Tỉnh Lai Châu;;tinh_lai_chau;;;2025-09-27 21:45:20;;false;;\N
+1508;14;Tỉnh Sơn La;;Tỉnh Sơn La;;tinh_son_la;;;2025-09-27 21:45:20;;false;;\N
+1509;15;Tỉnh Yên Bái;;Tỉnh Yên Bái;;tinh_yen_bai;;;2025-09-27 21:45:20;;false;;\N
+1510;17;Tỉnh Hoà Bình;;Tỉnh Hoà Bình;;tinh_hoa_binh;;;2025-09-27 21:45:20;;false;;\N
+1511;19;Tỉnh Thái Nguyên;;Tỉnh Thái Nguyên;;tinh_thai_nguyen;;;2025-09-27 21:45:20;;false;;\N
+1512;20;Tỉnh Lạng Sơn;;Tỉnh Lạng Sơn;;tinh_lang_son;;;2025-09-27 21:45:20;;false;;\N
+1513;22;Tỉnh Quảng Ninh;;Tỉnh Quảng Ninh;;tinh_quang_ninh;;;2025-09-27 21:45:20;;false;;\N
+1514;24;Tỉnh Bắc Giang;;Tỉnh Bắc Giang;;tinh_bac_giang;;;2025-09-27 21:45:20;;false;;\N
+1515;25;Tỉnh Phú Thọ;;Tỉnh Phú Thọ;;tinh_phu_tho;;;2025-09-27 21:45:20;;false;;\N
+1516;26;Tỉnh Vĩnh Phúc;;Tỉnh Vĩnh Phúc;;tinh_vinh_phuc;;;2025-09-27 21:45:20;;false;;\N
+1517;27;Tỉnh Bắc Ninh;;Tỉnh Bắc Ninh;;tinh_bac_ninh;;;2025-09-27 21:45:20;;false;;\N
+1518;30;Tỉnh Hải Dương;;Tỉnh Hải Dương;;tinh_hai_duong;;;2025-09-27 21:45:20;;false;;\N
+1519;31;Thành phố Hải Phòng;;Thành phố Hải Phòng;;thanh_pho_hai_phong;;;2025-09-27 21:45:20;;false;;\N
+1520;33;Tỉnh Hưng Yên;;Tỉnh Hưng Yên;;tinh_hung_yen;;;2025-09-27 21:45:20;;false;;\N
+1521;34;Tỉnh Thái Bình;;Tỉnh Thái Bình;;tinh_thai_binh;;;2025-09-27 21:45:20;;false;;\N
+1522;35;Tỉnh Hà Nam;;Tỉnh Hà Nam;;tinh_ha_nam;;;2025-09-27 21:45:20;;false;;\N
+1523;36;Tỉnh Nam Định;;Tỉnh Nam Định;;tinh_nam_dinh;;;2025-09-27 21:45:20;;false;;\N
+1524;37;Tỉnh Ninh Bình;;Tỉnh Ninh Bình;;tinh_ninh_binh;;;2025-09-27 21:45:20;;false;;\N
+1525;38;Tỉnh Thanh Hóa;;Tỉnh Thanh Hóa;;tinh_thanh_hoa;;;2025-09-27 21:45:20;;false;;\N
+1526;40;Tỉnh Nghệ An;;Tỉnh Nghệ An;;tinh_nghe_an;;;2025-09-27 21:45:20;;false;;\N
+1527;42;Tỉnh Hà Tĩnh;;Tỉnh Hà Tĩnh;;tinh_ha_tinh;;;2025-09-27 21:45:20;;false;;\N
+1528;44;Tỉnh Quảng Bình;;Tỉnh Quảng Bình;;tinh_quang_binh;;;2025-09-27 21:45:20;;false;;\N
+1529;45;Tỉnh Quảng Trị;;Tỉnh Quảng Trị;;tinh_quang_tri;;;2025-09-27 21:45:20;;false;;\N
+1530;46;Thành phố Huế;;Thành phố Huế;;thanh_pho_hue;;;2025-09-27 21:45:20;;false;;\N
+1531;48;Thành phố Đà Nẵng;;Thành phố Đà Nẵng;;thanh_pho_da_nang;;;2025-09-27 21:45:20;;false;;\N
+1532;49;Tỉnh Quảng Nam;;Tỉnh Quảng Nam;;tinh_quang_nam;;;2025-09-27 21:45:20;;false;;\N
+1533;51;Tỉnh Quảng Ngãi;;Tỉnh Quảng Ngãi;;tinh_quang_ngai;;;2025-09-27 21:45:20;;false;;\N
+1534;52;Tỉnh Bình Định;;Tỉnh Bình Định;;tinh_binh_dinh;;;2025-09-27 21:45:20;;false;;\N
+1535;54;Tỉnh Phú Yên;;Tỉnh Phú Yên;;tinh_phu_yen;;;2025-09-27 21:45:20;;false;;\N
+1536;56;Tỉnh Khánh Hòa;;Tỉnh Khánh Hòa;;tinh_khanh_hoa;;;2025-09-27 21:45:20;;false;;\N
+1537;58;Tỉnh Ninh Thuận;;Tỉnh Ninh Thuận;;tinh_ninh_thuan;;;2025-09-27 21:45:20;;false;;\N
+1538;60;Tỉnh Bình Thuận;;Tỉnh Bình Thuận;;tinh_binh_thuan;;;2025-09-27 21:45:20;;false;;\N
+1539;62;Tỉnh Kon Tum;;Tỉnh Kon Tum;;tinh_kon_tum;;;2025-09-27 21:45:20;;false;;\N
+1540;64;Tỉnh Gia Lai;;Tỉnh Gia Lai;;tinh_gia_lai;;;2025-09-27 21:45:20;;false;;\N
+1541;66;Tỉnh Đắk Lắk;;Tỉnh Đắk Lắk;;tinh_dak_lak;;;2025-09-27 21:45:20;;false;;\N
+1542;67;Tỉnh Đắk Nông;;Tỉnh Đắk Nông;;tinh_dak_nong;;;2025-09-27 21:45:20;;false;;\N
+1543;68;Tỉnh Lâm Đồng;;Tỉnh Lâm Đồng;;tinh_lam_dong;;;2025-09-27 21:45:20;;false;;\N
+1544;70;Tỉnh Bình Phước;;Tỉnh Bình Phước;;tinh_binh_phuoc;;;2025-09-27 21:45:20;;false;;\N
+1545;72;Tỉnh Tây Ninh;;Tỉnh Tây Ninh;;tinh_tay_ninh;;;2025-09-27 21:45:20;;false;;\N
+1546;74;Tỉnh Bình Dương;;Tỉnh Bình Dương;;tinh_binh_duong;;;2025-09-27 21:45:20;;false;;\N
+1547;75;Tỉnh Đồng Nai;;Tỉnh Đồng Nai;;tinh_dong_nai;;;2025-09-27 21:45:20;;false;;\N
+1548;77;Tỉnh Bà Rịa - Vũng Tàu;;Tỉnh Bà Rịa - Vũng Tàu;;tinh_ba_ria_vung_tau;;;2025-09-27 21:45:20;;false;;\N
+1549;79;Thành phố Hồ Chí Minh;;Thành phố Hồ Chí Minh;;thanh_pho_ho_chi_minh;;;2025-09-27 21:45:20;;false;;\N
+1550;80;Tỉnh Long An;;Tỉnh Long An;;tinh_long_an;;;2025-09-27 21:45:20;;false;;\N
+1551;82;Tỉnh Tiền Giang;;Tỉnh Tiền Giang;;tinh_tien_giang;;;2025-09-27 21:45:20;;false;;\N
+1552;83;Tỉnh Bến Tre;;Tỉnh Bến Tre;;tinh_ben_tre;;;2025-09-27 21:45:20;;false;;\N
+1553;84;Tỉnh Trà Vinh;;Tỉnh Trà Vinh;;tinh_tra_vinh;;;2025-09-27 21:45:20;;false;;\N
+1554;86;Tỉnh Vĩnh Long;;Tỉnh Vĩnh Long;;tinh_vinh_long;;;2025-09-27 21:45:20;;false;;\N
+1555;87;Tỉnh Đồng Tháp;;Tỉnh Đồng Tháp;;tinh_dong_thap;;;2025-09-27 21:45:20;;false;;\N
+1556;89;Tỉnh An Giang;;Tỉnh An Giang;;tinh_an_giang;;;2025-09-27 21:45:20;;false;;\N
+1557;91;Tỉnh Kiên Giang;;Tỉnh Kiên Giang;;tinh_kien_giang;;;2025-09-27 21:45:20;;false;;\N
+1558;92;Thành phố Cần Thơ;;Thành phố Cần Thơ;;thanh_pho_can_tho;;;2025-09-27 21:45:20;;false;;\N
+1559;93;Tỉnh Hậu Giang;;Tỉnh Hậu Giang;;tinh_hau_giang;;;2025-09-27 21:45:20;;false;;\N
+1560;94;Tỉnh Sóc Trăng;;Tỉnh Sóc Trăng;;tinh_soc_trang;;;2025-09-27 21:45:20;;false;;\N
+1561;95;Tỉnh Bạc Liêu;;Tỉnh Bạc Liêu;;tinh_bac_lieu;;;2025-09-27 21:45:20;;false;;\N
+1562;96;Tỉnh Cà Mau;;Tỉnh Cà Mau;;tinh_ca_mau;;;2025-09-27 21:45:20;;false;;\N

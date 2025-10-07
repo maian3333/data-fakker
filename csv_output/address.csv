@@ -1,0 +1,137 @@
+id;street_address;latitude;longitude;created_at;updated_at;is_deleted;deleted_at;deleted_by;ward_id
+1500;Nam Kỳ Khởi Nghĩa, Thắng Tam, Vũng Tàu;;;2025-09-28 08:56:45;;false;;\N;9639
+1501;43 Lý Nam Đế, phường Trà Bá, Pleiku;;;2025-09-28 08:56:45;;false;;\N;8576
+1502;Lộ 91B Nguyễn Văn Linh, Ninh Kiều, Thành phố Cần Thơ;;;2025-09-28 08:56:45;;false;;\N;11124
+1503;9 Liên Huyện, An Phú, Thuận An, Bình Dương, Vietnam, Thuận An;;;2025-09-28 08:56:45;;false;;\N;9453
+1504;Quốc Lộ 22, Bà Điểm, Hóc Môn, Hồ Chí Minh, Vietnam, Hóc Môn, Thành phố Hồ Chí Minh;;;2025-09-28 08:56:45;;false;;\N;9943
+1505;Tỉnh Lộ 887, An Bình Tây, Ba Tri, Bến Tre, Vietnam, Ba Tri;;;2025-09-28 08:56:45;;false;;\N;10340
+1506;69 Hùng Vương, Quảng Trạch;;;2025-09-28 08:56:45;;false;;\N;7098
+1507;04 Nguyễn Ái Quốc, Quang Vinh, tp. Biên Hòa, Đồng Nai, Vietnam, Biên Hòa;;;2025-09-28 08:56:45;;false;;\N;9480
+1508;72 Ngô Gia Tự, Buôn Ma Thuột;;;2025-09-28 08:56:45;;false;;\N;8796
+1509;Số 17 Đường 279, Hạ Long;;;2025-09-28 08:56:45;;false;;\N;3900
+1510;Âp Bình An,Xa Bình Châu ,Xuyên Mộc Vũ ng Tàu, Bình Châu, Bà Rịa, Bà Rịa - Vũng Tàu, Vietnam, Xuyên Mộc;;;2025-09-28 08:56:45;;false;;\N;9686
+1511;Đường 717 - Bắc Ruộng, Tánh Linh;;;2025-09-28 08:56:45;;false;;\N;8437
+1512;QL60, Sơn Đông, Tp. Bến Tre, Bến Tre, Vietnam, Bến Tre;;;2025-09-28 08:56:45;;false;;\N;10331
+1513;Tỉnh lộ 392B, thôn An Phong, xã Tiền Phong, Thanh Miện;;;2025-09-28 08:56:45;;false;;\N;4919
+1514;Bồng Sơn 1A, TT. Bồng Sơn, Hoài Nhơn, Bình Định, Vietnam, Hoài Nhơn;;;2025-09-28 08:56:45;;false;;\N;7917
+1515;Đường Đinh Tiên Hoàng, phường Nghĩa Chánh, Quảng Ngãi;;;2025-09-28 08:56:45;;false;;\N;7721
+1516;xã Thái Xuyên, Thái Thụy;;;2025-09-28 08:56:45;;false;;\N;5377
+1517;Quốc Lộ 1A, Lý Thường Kiệt, Khóm 5, Phường 6, Cà Mau;;;2025-09-28 08:56:45;;false;;\N;11456
+1518;Ninh Kiều, Thành phố Cần Thơ;;;2025-09-28 08:56:45;;false;;\N;11129
+1519;Số 1 Thiên Lôi, Ngô Quyền, Thành phố Hải Phòng;;;2025-09-28 08:56:45;;false;;\N;4937
+1520;Số 48 Lý Thường Kiệt, Cửa Ông, Cẩm Phả;;;2025-09-28 08:56:45;;false;;\N;3954
+1521;Khóm 2 Quốc Lộ 53 - Thị Trấn Duyên Hải, Thị xã Duyên Hải;;;2025-09-28 08:56:45;;false;;\N;10574
+1522;Chu Văn An, tt. Ea Súp, Ea Súp, Đắk Lắk, Vietnam, Ea Súp;;;2025-09-28 08:56:45;;false;;\N;8832
+1523;6 Nguyễn Tất Thành, Ea Kar, Đắk Lắk, Vietnam, Ea Kar;;;2025-09-28 08:56:45;;false;;\N;8886
+1524;Số 9 Ngô Gia Khảm, Long Biên, Thành phố Hà Nội;;;2025-09-28 08:56:45;;false;;\N;1550
+1525;Đường Mạc Thị Bưởi, Phường Nghĩa Thành, Gia Nghĩa;;;2025-09-28 08:56:45;;false;;\N;8965
+1526;ĐT489, TT. Ngô Đồng, Nam Định, Giao Thủy;;;2025-09-28 08:56:45;;false;;\N;5716
+1527;Đường Đồng Khởi - Phường 4, Gò Công;;;2025-09-28 08:56:45;;false;;\N;10189
+1528;Bến xe Hà Giang, Hà Giang;;;2025-09-28 08:56:45;;false;;\N;2033
+1529;QL 80, Kp 5, P.Bình San, Hà Tiên;;;2025-09-28 08:56:45;;false;;\N;10994
+1530;Đường Hàm Nghi kéo dài, Bắc Thượng, Thạch Hà;;;2025-09-28 08:56:45;;false;;\N;6970
+1531;Số 01 Hùng Vương, Thới Bình, Ninh Kiều, Thành phố Cần Thơ;;;2025-09-28 08:56:45;;false;;\N;11129
+1532;Phường Hiền Nam, Hưng Yên;;;2025-09-28 08:56:45;;false;;\N;5090
+1533;Đơn Dương;;;2025-09-28 08:56:45;;false;;\N;9097
+1534;185 Tôn Đức Thắng, Liên Chiểu, Thành phố Đà Nẵng;;;2025-09-28 08:56:45;;false;;\N;7440
+1535;Khánh Bình, An Giang, Vietnam, An Phú;;;2025-09-28 08:56:45;;false;;\N;10858
+1536;Bến xe Kim Sơn, Kim Sơn;;;2025-09-28 08:56:45;;false;;\N;5838
+1537;Thạch Thành;;;2025-09-28 08:56:45;;false;;\N;6050
+1538;Bến xe khách Kiến Đức - huyện Đắk Rlấp, Đăk R`Lấp;;;2025-09-28 08:56:45;;false;;\N;9023
+1539;281 Phan Đình Phùng , Kon Tum;;;2025-09-28 08:56:45;;false;;\N;8478
+1540;Bến xe thị trấn Kỳ Anh, Thị xã Kỳ Anh;;;2025-09-28 08:56:45;;false;;\N;7024
+1541;Phường Tân Phong, Lai Châu;;;2025-09-28 08:56:45;;false;;\N;2907
+1542;Long Hải, Long Điền, Ba Ria - Vung Tau, Vietnam, Long Hải;;;2025-09-28 08:56:45;;false;;\N;9643
+1543;392, P, Phạm Cự Lượng, Mỹ Quý, Tp. Long Xuyên, An Giang, Vietnam, Long Xuyên;;;2025-09-28 08:56:45;;false;;\N;10828
+1544;22 Cù Chính Lan, Phường Minh Khai, Hồng Bàng, Thành phố Hải Phòng;;;2025-09-28 08:56:45;;false;;\N;4927
+1545;Số 28A, Đường Ngô Quyền, Phường Vĩnh Trại , Lạng Sơn;;;2025-09-28 08:56:45;;false;;\N;3708
+1546;Lập Thạch;;;2025-09-28 08:56:45;;false;;\N;4503
+1547;Ấp 1, Thị trấn Lộc Ninh, Lộc Ninh;;;2025-09-28 08:56:45;;false;;\N;9205
+1548;xã Minh Lộc, Hậu Lộc;;;2025-09-28 08:56:45;;false;;\N;6274
+1549;395 Đ. Kinh Dương Vương, Bình Tân, Thành phố Hồ Chí Minh;;;2025-09-28 08:56:45;;false;;\N;9903
+1550;292 Đinh Bộ Lĩnh, Bình Thạnh, Thành phố Hồ Chí Minh;;;2025-09-28 08:56:45;;false;;\N;9753
+1551;Đường Hùng Vương, Móng Cái;;;2025-09-28 08:56:45;;false;;\N;3939
+1552;18 Mông Dương, Cẩm Phả;;;2025-09-28 08:56:45;;false;;\N;3956
+1553;Huỳnh Thúc Kháng, Mũi Né;;;2025-09-28 08:56:45;;false;;\N;8411
+1554;Đường Tô Hiệu, Mộc Châu, Mộc Châu;;;2025-09-28 08:56:45;;false;;\N;3128
+1555;Tiền Hải;;;2025-09-28 08:56:45;;false;;\N;5406
+1556;Xã Vân Diêm, Nam Đàn;;;2025-09-28 08:56:45;;false;;\N;6801
+1557;Xã Lộc Hòa, Nam Định;;;2025-09-28 08:56:45;;false;;\N;5579
+1558;720 Quốc lộ 1A, P. Thạnh Lộc, Q.12, Tp. Hồ Chí Minh, Quận 12, Thành phố Hồ Chí Minh;;;2025-09-28 08:56:45;;false;;\N;9718
+1559;Thị Trấn Ngọc Lặc, Ngọc Lặc;;;2025-09-28 08:56:45;;false;;\N;6000
+1560;Số 275 Trần Nguyên Hãn, Lê Chân, Thành phố Hải Phòng;;;2025-09-28 08:56:45;;false;;\N;4944
+1561;Tiến Lợi, Phan Thiết;;;2025-09-28 08:56:45;;false;;\N;8357
+1562;Phường Phong Châu, Phú Thọ;;;2025-09-28 08:56:45;;false;;\N;4287
+1563;Phừơc Hải, Tân Hải, Tân Thành, Bà Rịa - Vũng Tàu, Vietnam, Đất Đỏ;;;2025-09-28 08:56:45;;false;;\N;9643
+1564;Tổ 2 - Khu Phố 1 - P. Long Thủy, Phước Long;;;2025-09-28 08:56:45;;false;;\N;9176
+1565;Phường Phố Mới, Lào Cai;;;2025-09-28 08:56:45;;false;;\N;2630
+1566;71 Tây Sơn , Ghềnh Ráng, Thành phố Qui Nhơn, Bình Định, Vietnam, Quy Nhơn;;;2025-09-28 08:56:45;;false;;\N;7985
+1567;Km11+200 khối 2, thị trấn Quỳ Hợp, Quỳ Hợp;;;2025-09-28 08:56:45;;false;;\N;6542
+1568;Khu 3, thị trấn Quỳnh Côi, Quỳnh Phụ;;;2025-09-28 08:56:45;;false;;\N;5247
+1569;Thị Trấn Quỹ Nhất, Nghĩa Hưng;;;2025-09-28 08:56:45;;false;;\N;5638
+1570;260A Nguyễn Bỉnh Khiêm, P.Vĩnh Thanh, Rạch Giá;;;2025-09-28 08:56:45;;false;;\N;10983
+1571;Lê Duẩn, phường 3, Sóc Trăng;;;2025-09-28 08:56:45;;false;;\N;11287
+1572;Đường Lê Duẩn, Chiềng Sinh, Sơn La;;;2025-09-28 08:56:45;;false;;\N;3021
+1573;3 Tam Bạc, Phạm Hồng Thái, Hồng Bàng, Thành phố Hải Phòng;;;2025-09-28 08:56:45;;false;;\N;4928
+1574;Đường Pác Pó, Sông Bằng, Cao Bằng;;;2025-09-28 08:56:45;;false;;\N;2220
+1575;Tỉnh Lộ 223, Thái Bình;;;2025-09-28 08:56:45;;false;;\N;5244
+1576;Phố Hùng Thắng, Tiền Hải;;;2025-09-28 08:56:45;;false;;\N;5384
+1577;Phường Bình Minh, Lào Cai;;;2025-09-28 08:56:45;;false;;\N;2631
+1578;Ngõ 398 Thống Nhất, Đồng Quang, Thái Nguyên;;;2025-09-28 08:56:45;;false;;\N;3564
+1579;185 Tôn Đức Thắng, Liên Chiểu, Thành phố Đà Nẵng;;;2025-09-28 08:56:45;;false;;\N;7440
+1580;giao lộ Hùng Vương - Quốc lộ 1A, Sóc Trăng;;;2025-09-28 08:56:45;;false;;\N;11287
+1581;559 Quốc lộ 54, Khóm 4, Phường 9, Trà Vinh;;;2025-09-28 08:56:45;;false;;\N;10487
+1582;Đường tỉnh 741, thị xã Đồng Xoài, Đồng Xoài;;;2025-09-28 08:56:45;;false;;\N;9184
+1583;Số 95 Chiến Thắng Sông Lô, Tân Quang, Tuyên Quang;;;2025-09-28 08:56:45;;false;;\N;2494
+1584;Trần Phú, Long Châu, Tx. Tân Châu, An Giang, Vietnam, Tân Châu;;;2025-09-28 08:56:45;;false;;\N;10867
+1585;Xã Tân Hà, Lâm Hà;;;2025-09-28 08:56:45;;false;;\N;9077
+1586;QL15, Tân Kỳ (Bến xe Lạt), Tân Kỳ;;;2025-09-28 08:56:45;;false;;\N;6619
+1587;Km125, Quốc Lộ 20 – Tân Phú, Tân Phú;;;2025-09-28 08:56:45;;false;;\N;9515
+1588;136 Trưng Nữ Vương, Tây Ninh;;;2025-09-28 08:56:45;;false;;\N;9295
+1589;Thị trấn Vĩnh Lộc, Vĩnh Lộc;;;2025-09-28 08:56:45;;false;;\N;6081
+1590;943 Quốc lộ 63, Vĩnh Thuận;;;2025-09-28 08:56:45;;false;;\N;11094
+1591;Ngã Tư Gốc Gạo, Lý Nhân;;;2025-09-28 08:56:45;;false;;\N;5559
+1592;Phường Khai Quang, Vĩnh Yên;;;2025-09-28 08:56:45;;false;;\N;4480
+1593;Số 37 Nguyễn Thái Học, Yên Bái;;;2025-09-28 08:56:45;;false;;\N;3218
+1594;Thị trấn Yên Cát, Như Xuân;;;2025-09-28 08:56:45;;false;;\N;6302
+1595;311 Đường 30/4, Phú Thọ, Thủ Dầu Một, Thủ Dầu Một;;;2025-09-28 08:56:45;;false;;\N;9384
+1596;Số 486 Xương Giang, Ngô Quyền, Bắc Giang;;;2025-09-28 08:56:45;;false;;\N;4084
+1597;Đường Kon Tum, Phùng Chí Kiên, Bắc Kạn;;;2025-09-28 08:56:45;;false;;\N;2381
+1598;Khu phố 7, Thị Trấn Cái Rồng, Vân Đồn;;;2025-09-28 08:56:45;;false;;\N;4018
+1599;Trần Hưng Đạo, Hoà Bình;;;2025-09-28 08:56:45;;false;;\N;3390
+1600;QL1A, Hộ Phòng, Giá Rai, Bạc Liêu, Vietnam, Giá Rai;;;2025-09-28 08:56:45;;false;;\N;11393
+1601;Thị trấn Kiến Xương, Kiến Xương;;;2025-09-28 08:56:45;;false;;\N;5411
+1602;Tỉnh Lộ 684, Đăk Mâm, Krông Nô;;;2025-09-28 08:56:45;;false;;\N;9000
+1603;Thị Trấn Yên Thế, Lục Yên;;;2025-09-28 08:56:45;;false;;\N;3243
+1604;Thị trấn Ít Ong, Mường La;;;2025-09-28 08:56:45;;false;;\N;3063
+1605;Quốc lộ 32, Trung Tâm, Văn Chấn;;;2025-09-28 08:56:45;;false;;\N;3339
+1606;Tỉnh Lộ 477, thị trấn Nho Quan, Nho Quan;;;2025-09-28 08:56:45;;false;;\N;5765
+1607;Quốc lộ 37, Đồng Tâm, Ninh Giang;;;2025-09-28 08:56:45;;false;;\N;4903
+1608;Đường Quang Trung, Phù Mỹ;;;2025-09-28 08:56:45;;false;;\N;7950
+1609;Mường Giàng, Quỳnh Nhai, Quỳnh Nhai;;;2025-09-28 08:56:45;;false;;\N;3030
+1610;Hải Hậu;;;2025-09-28 08:56:45;;false;;\N;5736
+1611;DT743A, Tân Đông Hiệp, Dĩ An, Binh Duong, Vietnam, Dĩ An;;;2025-09-28 08:56:45;;false;;\N;9448
+1612;Hùng Vương, Gia Ray, Xuân Lộc, Đồng Nai, Việt Nam, Xuân Lộc;;;2025-09-28 08:56:45;;false;;\N;9608
+1613;QL55, Phước Thuận, Xuyên Mộc, Bà Rịa - Vũng Tàu, Vietnam, Xuyên Mộc;;;2025-09-28 08:56:45;;false;;\N;9637
+1614;Thị Trấn Gia Nghĩa, Gia Nghĩa;;;2025-09-28 08:56:45;;false;;\N;8969
+1615;Thị trấn Diêm Điền, Thái Thụy;;;2025-09-28 08:56:45;;false;;\N;5347
+1616;01 Tô Hiến Thành, Đà Lạt;;;2025-09-28 08:56:45;;false;;\N;9049
+1617;Km4 - Đường Nguyễn Chí Thanh, Phường Tân An, Buôn Ma Thuột;;;2025-09-28 08:56:45;;false;;\N;8797
+1618;QL91, Vĩnh Mỹ, Châu Đốc, Châu Phú B, Vietnam, Châu Đốc;;;2025-09-28 08:56:45;;false;;\N;10897
+1621;Khối 1, T.T Cao Lộc, Cao Lộc;;;2025-09-28 08:56:45;;false;;\N;3780
+1622;Số 418 Bà Triệu, Đông Thọ, Thanh Hóa;;;2025-09-28 08:56:45;;false;;\N;5912
+1623;Võ Văn Kiệt, Buôn Ma Thuột;;;2025-09-28 08:56:45;;false;;\N;8793
+1624;690 Quang Trung, P. Đông Vệ, Thanh Hóa;;;2025-09-28 08:56:45;;false;;\N;5893
+1625;Quốc lộ 4D, Sapa, Sa Pa;;;2025-09-28 08:56:45;;false;;\N;2739
+1626;523 Quang Trung, An Khê;;;2025-09-28 08:56:45;;false;;\N;8590
+1627;206 Thống Nhất, P. Tân Thiện, La Gi;;;2025-09-28 08:56:45;;false;;\N;8358
+1628;Ấp Cái Nai, đường Nguyễn Tất Thành, QL 1A, Thị trấn Năm Căn, Năm Căn;;;2025-09-28 08:56:45;;false;;\N;11527
+1629;Quốc lộ 91, Phường Châu Văn Liêm, Ô Môn, Thành phố Cần Thơ;;;2025-09-28 08:56:45;;false;;\N;11132
+1630;Phường Mường Thanh, Điện Biên Phủ;;;2025-09-28 08:56:45;;false;;\N;2780
+1631;Xã Yên Sơn, Đô Lương;;;2025-09-28 08:56:45;;false;;\N;6718
+1632;Nghĩa Hưng;;;2025-09-28 08:56:45;;false;;\N;5638
+1633;Đông Hưng;;;2025-09-28 08:56:45;;false;;\N;5335
+1634;Khu phố 3, thị trấn Đạ tẻh, Đạ Tẻh;;;2025-09-28 08:56:45;;false;;\N;9156
+1635;Thôn Minh Đoài, Xã Đức Thịnh, Đăk Mil;;;2025-09-28 08:56:45;;false;;\N;8991
+1636;Nguyễn Hữu Cảnh, Phường Hải Thịnh, Đồng Hới;;;2025-09-28 08:56:45;;false;;\N;7042
+1637;Đức Linh, Đức Linh;;;2025-09-28 08:56:45;;false;;\N;8440

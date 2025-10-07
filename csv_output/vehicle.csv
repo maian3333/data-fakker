@@ -1,0 +1,11 @@
+id,seat_map_id,type,type_factor,plate_number,brand,description,status,created_at,updated_at,is_deleted,deleted_at,deleted_by
+1540,1541,STANDARD_BUS_NORMAL,1.0,34A-44444,Hyundai,Standard bus route 6,ACTIVE,2025-10-07 18:44:51,,false,,
+1542,1543,LIMOUSINE,1.5,35A-55555,Mercedes,Luxury bus route 7,MAINTENANCE,2025-10-07 18:44:51,,false,,
+1544,1545,STANDARD_BUS_VIP,1.2,36A-66666,Thaco,VIP bus route 8,RETIRED,2025-10-07 18:44:51,,false,,
+1546,1547,STANDARD_BUS_NORMAL,1.0,37A-77777,Hyundai,Standard bus route 9,ACTIVE,2025-10-07 18:44:51,,false,,
+1548,1549,LIMOUSINE,1.8,38A-88888,Scania,Luxury sleeper route 10,MAINTENANCE,2025-10-07 18:44:51,,false,,
+1550,1551,STANDARD_BUS_NORMAL,1.0,39A-99999,Hyundai,Standard bus route 11,RETIRED,2025-10-07 18:44:51,,false,,
+1552,1553,LIMOUSINE,1.5,40A-00000,Mercedes,Luxury bus route 12,ACTIVE,2025-10-07 18:44:51,,false,,
+1554,1555,STANDARD_BUS_VIP,1.2,41A-11111,Thaco,VIP bus route 13,MAINTENANCE,2025-10-07 18:44:51,,false,,
+1556,1557,STANDARD_BUS_NORMAL,1.0,42A-22222,Hyundai,Standard bus route 14,RETIRED,2025-10-07 18:44:51,,false,,
+1558,1559,LIMOUSINE,1.8,43A-33333,Scania,Luxury sleeper route 15,ACTIVE,2025-10-07 18:44:51,,false,,
