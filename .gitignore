@@ -66,4 +66,52 @@ replay_pid*
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
 
-/targettickets_nhaxe.csv
+# Large data files that exceed GitHub limits
+tickets_nhaxe.csv
+
+# Generated CSV output files (can be regenerated)
+csv_output/*.csv
+!csv_output/.gitkeep
+
+# Large ticket data files (can be regenerated if needed)
+tickets_*.csv
+!tickets_benxe.csv
+
+# Keep specific small CSV files that are needed
+!benxe_addresses.csv
+!benxe_addresses_with_ward_ids.csv
+!provinces.open-api.vn.json
+
+# Exclude other CSV files in root unless explicitly needed
+*.csv
+!benxe_addresses.csv
+!benxe_addresses_with_ward_ids.csv
+!tickets_benxe.csv
+
+# Maven build output
+/target/
+/target/
+
+# IDE and editor files
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+*.backup
